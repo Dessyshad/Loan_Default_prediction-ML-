@@ -1,0 +1,1001 @@
+applicant_name,gender,age,state,employment_type,monthly_income_naira,loan_amount_naira,loan_purpose,loan_tenure_months,credit_score,previous_default,collateral_type,loan_default
+Kabir Okafor,Male,33,Ondo,Trader,165203,552264,Business Capital,12,634,0,Land,0
+Emeka Adebayo,Female,37,Lagos,Trader,277908,3396145,Vehicle Purchase,48,668,0,Vehicle,0
+Aisha Eze,Female,45,Rivers,Trader,336969,989695,Vehicle Purchase,12,348,1,None,0
+Yusuf Okafor,Female,40,Rivers,Farmer,303493,2233955,Business Capital,36,351,0,Vehicle,1
+Nneka Okeke,Male,29,Anambra,Salary Earner,222003,1302390,Business Capital,60,588,1,None,1
+Bola Yusuf,Male,52,Enugu,Self-Employed,336398,2265995,School Fees,24,538,0,None,0
+Halima Adeyemi,Male,42,Ekiti,Farmer,330369,529809,Vehicle Purchase,48,432,0,Vehicle,0
+Emeka Bello,Female,38,Oyo,Self-Employed,304597,2700432,Home Improvement,24,465,0,Land,1
+Tunde Eze,Female,44,Anambra,Farmer,179886,4225282,Business Capital,60,673,1,Fixed Deposit,1
+Taiwo Nnamdi,Female,58,Cross River,Salary Earner,179335,3567847,Medical,6,672,1,Guarantor,0
+Emeka Okeke,Male,37,Cross River,Self-Employed,107694,1817413,Vehicle Purchase,48,777,0,Land,0
+Tunde Okeke,Female,27,Rivers,Civil Servant,45735,4388586,Business Capital,18,778,1,Fixed Deposit,1
+Halima Eze,Female,29,Kaduna,Civil Servant,439046,2623697,Home Improvement,12,599,0,Land,0
+Obinna Yusuf,Male,46,Anambra,Civil Servant,340037,3650952,Asset Acquisition,12,381,1,None,0
+Chukwu Okonkwo,Male,39,Osun,Farmer,205745,2021277,School Fees,48,386,0,Land,0
+Chidi Nwosu,Male,46,Oyo,Salary Earner,419150,994740,Vehicle Purchase,60,524,1,Land,0
+Dayo Chukwuemeka,Male,33,Cross River,Salary Earner,250534,3096555,Asset Acquisition,6,315,0,Land,0
+Musa Adebayo,Male,36,Kano,Trader,75066,1246311,Business Capital,12,657,0,None,0
+Yusuf Abubakar,Male,47,Anambra,Farmer,261387,4494041,Business Capital,6,462,0,Guarantor,0
+Chidi Obi,Male,62,Kwara,Salary Earner,164445,192157,Medical,36,813,0,Fixed Deposit,0
+Fatima Bello,Female,47,Anambra,Trader,433551,2337319,Medical,24,649,0,Vehicle,1
+Seun Okafor,Male,53,Oyo,Salary Earner,446957,4838109,Vehicle Purchase,60,763,0,Vehicle,1
+Blessing Suleiman,Male,31,Oyo,Civil Servant,302836,1512603,Asset Acquisition,18,674,0,Land,0
+Sade Adebayo,Male,37,Abuja,Salary Earner,470511,1325029,Asset Acquisition,24,391,0,Guarantor,0
+Funmi Adeyemi,Male,28,Kaduna,Farmer,75541,3070791,Business Capital,24,480,0,Guarantor,1
+Rukayat Lawal,Female,38,Ogun,Farmer,195129,186645,Vehicle Purchase,36,600,0,Guarantor,1
+Zainab Okafor,Male,44,Borno,Salary Earner,96983,1702131,Business Capital,12,488,1,Vehicle,0
+Hauwa Babatunde,Male,47,Anambra,Trader,180655,1236837,Medical,18,613,0,None,1
+Bola Okeke,Female,42,Oyo,Self-Employed,183837,392221,Home Improvement,12,792,0,Land,0
+Adaeze Nnamdi,Male,43,Lagos,Self-Employed,220359,2485919,Agricultural Input,48,427,0,None,1
+Tobi Suleiman,Female,28,Niger,Salary Earner,447122,1229580,Agricultural Input,24,818,0,Land,0
+Ifeanyi Abubakar,Male,35,Osun,Self-Employed,412891,103687,Business Capital,48,725,0,Guarantor,0
+Dayo Bello,Male,36,Niger,Salary Earner,377247,2540272,Asset Acquisition,6,486,0,Vehicle,0
+Chioma Eze,Female,28,Osun,Civil Servant,240747,2679137,Medical,24,849,0,Vehicle,0
+Chidi Umar,Female,30,Oyo,Trader,207597,4848757,School Fees,12,752,1,Guarantor,1
+Bola Eze,Female,29,Niger,Civil Servant,199302,3925010,School Fees,24,770,0,Vehicle,1
+Chiamaka Okafor,Male,44,Rivers,Salary Earner,442736,4826415,Agricultural Input,6,523,0,Vehicle,1
+Seun Adebayo,Male,50,Ekiti,Salary Earner,475150,2089660,Home Improvement,36,453,0,Fixed Deposit,0
+Obinna Suleiman,Female,39,Kano,Salary Earner,317710,2069450,Agricultural Input,48,650,0,Guarantor,0
+Ngozi Suleiman,Male,52,Ekiti,Self-Employed,365337,4750858,Business Capital,48,446,1,Fixed Deposit,1
+Blessing Abubakar,Male,51,Plateau,Farmer,453350,2021140,Home Improvement,12,648,0,Land,0
+Nneka Adebayo,Male,60,Cross River,Salary Earner,433561,3911607,School Fees,24,481,0,Guarantor,1
+Dayo Bello,Male,56,Rivers,Farmer,282084,3578434,Asset Acquisition,12,478,0,Guarantor,1
+Sade Nwosu,Female,39,Abuja,Trader,151015,4174390,Medical,36,338,0,Vehicle,0
+Zainab Eze,Male,63,Cross River,Civil Servant,202257,2706222,Medical,24,302,0,Guarantor,0
+Ngozi Lawal,Female,60,Ondo,Trader,276536,1177109,Business Capital,24,363,1,Vehicle,1
+Seun Adebayo,Male,38,Osun,Civil Servant,254021,4484315,Agricultural Input,12,328,1,Land,1
+Hauwa Okeke,Male,35,Enugu,Civil Servant,160956,1603744,Business Capital,12,671,1,Land,0
+Aisha Obi,Male,52,Kano,Civil Servant,100744,4316988,Medical,6,822,1,Land,0
+Ibrahim Adeyemi,Male,45,Delta,Civil Servant,325599,1838220,School Fees,60,396,0,Guarantor,0
+Aisha Adeyemi,Female,56,Cross River,Salary Earner,451234,4061718,Medical,60,741,0,Guarantor,0
+Funmi Obi,Female,55,Kaduna,Self-Employed,346363,4063582,Home Improvement,36,502,1,None,1
+Seun Adebayo,Female,24,Borno,Self-Employed,338135,2922875,Asset Acquisition,60,710,1,Fixed Deposit,1
+Bola Abubakar,Female,58,Borno,Civil Servant,103616,1880288,Asset Acquisition,6,320,1,Land,1
+Hauwa Yusuf,Female,64,Niger,Salary Earner,117438,1891646,Vehicle Purchase,48,401,0,None,1
+Tobi Obi,Female,61,Ekiti,Trader,146841,4019579,Medical,24,345,0,None,1
+Tunde Onwudiwe,Male,47,Delta,Farmer,170558,1646246,Medical,12,365,1,Vehicle,1
+Seun Lawal,Male,44,Ekiti,Self-Employed,199934,1869239,Asset Acquisition,24,463,0,Guarantor,0
+Yusuf Adebayo,Male,60,Delta,Salary Earner,282734,4955727,Vehicle Purchase,24,410,1,None,1
+Yusuf Eze,Male,36,Delta,Trader,88870,2300618,Home Improvement,18,637,0,Guarantor,0
+Rukayat Okeke,Male,25,Lagos,Trader,116694,4478622,Agricultural Input,48,422,0,None,0
+Zainab Adebayo,Male,50,Abuja,Farmer,267068,2519930,Medical,18,746,0,Land,0
+Rukayat Yusuf,Female,43,Ondo,Self-Employed,336000,181936,Asset Acquisition,60,590,1,Land,1
+Halima Yusuf,Male,46,Lagos,Self-Employed,131407,2029746,Business Capital,24,711,0,Vehicle,1
+Seun Suleiman,Male,34,Borno,Salary Earner,61379,4892256,Medical,12,580,0,Guarantor,0
+Aisha Musa,Male,39,Osun,Salary Earner,356873,2519970,Business Capital,24,342,1,Fixed Deposit,1
+Taiwo Onwudiwe,Male,54,Enugu,Farmer,451594,1346573,Home Improvement,48,785,0,None,1
+Bola Adeyemi,Female,37,Plateau,Farmer,266500,3585647,Medical,18,350,1,Vehicle,1
+Chiamaka Okafor,Male,63,Abuja,Civil Servant,84353,2628682,Asset Acquisition,12,509,0,Land,1
+Yusuf Nwosu,Female,23,Enugu,Trader,211068,1554900,Home Improvement,24,425,1,Fixed Deposit,1
+Funmi Chukwuemeka,Female,56,Enugu,Civil Servant,306175,3440664,Home Improvement,36,791,0,Guarantor,0
+Sade Bello,Male,63,Ekiti,Civil Servant,241144,1671788,Agricultural Input,48,808,1,Land,0
+Seun Babatunde,Male,55,Ogun,Self-Employed,95982,4654229,Medical,48,557,1,Guarantor,0
+Sade Lawal,Female,51,Ekiti,Contractor,66683,241896,Business Capital,36,487,0,Fixed Deposit,0
+Taiwo Adebayo,Female,34,Niger,Salary Earner,144091,4657765,Business Capital,24,529,0,Fixed Deposit,1
+Zainab Okonkwo,Female,34,Edo,Contractor,147797,1133329,Medical,48,488,0,Guarantor,1
+Nneka Okafor,Female,39,Oyo,Trader,440834,2430612,Vehicle Purchase,12,714,0,Vehicle,0
+Nneka Okeke,Male,53,Benue,Salary Earner,36587,283979,Agricultural Input,24,309,1,None,1
+Chidi Adebayo,Male,53,Lagos,Civil Servant,354934,4853290,Agricultural Input,24,413,0,Guarantor,0
+Chidi Obi,Male,56,Oyo,Trader,323624,328104,Agricultural Input,18,375,0,Vehicle,0
+Fatima Umar,Female,60,Enugu,Civil Servant,259602,2048547,Business Capital,48,801,0,Vehicle,0
+Halima Nwosu,Female,50,Niger,Trader,181599,4094630,Home Improvement,48,384,1,Fixed Deposit,1
+Obinna Okonkwo,Male,50,Enugu,Contractor,315713,4175279,Asset Acquisition,36,348,1,Land,0
+Rukayat Adebayo,Male,37,Plateau,Self-Employed,303295,4841882,Vehicle Purchase,18,794,0,Land,1
+Taiwo Nwosu,Male,31,Lagos,Self-Employed,494310,4379454,Agricultural Input,60,686,0,Guarantor,1
+Taiwo Okafor,Male,51,Niger,Contractor,220246,1045893,Business Capital,18,688,0,Vehicle,1
+Chiamaka Umar,Female,46,Edo,Farmer,74739,3246247,Business Capital,48,517,0,Guarantor,1
+Ibrahim Garba,Female,60,Kano,Salary Earner,62954,1889050,Home Improvement,24,645,0,Land,1
+Sade Abubakar,Female,41,Ekiti,Salary Earner,273935,2720492,Medical,18,529,0,Guarantor,1
+Yusuf Suleiman,Male,26,Oyo,Civil Servant,139373,2505257,Medical,36,554,0,Vehicle,0
+Chidi Nwosu,Male,22,Cross River,Contractor,458519,3027299,Asset Acquisition,18,535,0,Land,1
+Zainab Garba,Female,51,Enugu,Trader,64700,2984317,Asset Acquisition,36,325,0,Land,1
+Hauwa Okonkwo,Female,24,Kwara,Farmer,153728,4016914,Agricultural Input,60,560,0,None,0
+Sade Obi,Female,35,Rivers,Salary Earner,490784,3353481,Asset Acquisition,18,570,0,None,1
+Amaka Okonkwo,Female,51,Plateau,Self-Employed,358932,4587454,Agricultural Input,36,422,1,Land,0
+Fatima Suleiman,Male,25,Cross River,Trader,101045,1596064,Vehicle Purchase,18,556,0,Fixed Deposit,0
+Tobi Umar,Male,39,Ogun,Salary Earner,461058,3290641,Asset Acquisition,60,720,0,Guarantor,0
+Aisha Adeyemi,Male,58,Edo,Self-Employed,174972,2765548,Home Improvement,18,558,0,None,0
+Aisha Yusuf,Male,46,Anambra,Salary Earner,420136,829091,Agricultural Input,12,346,1,Vehicle,1
+Bola Bello,Male,22,Edo,Farmer,372203,2416789,Home Improvement,36,824,1,Guarantor,1
+Rukayat Onwudiwe,Male,36,Edo,Contractor,31881,2216791,Business Capital,60,507,0,Land,1
+Ibrahim Bello,Female,30,Plateau,Self-Employed,456253,3427180,Agricultural Input,36,610,0,Vehicle,0
+Chidi Okeke,Male,36,Oyo,Civil Servant,424846,1756930,Business Capital,36,448,0,None,0
+Chidi Musa,Male,45,Oyo,Civil Servant,312933,1014795,School Fees,6,737,0,Guarantor,0
+Yusuf Onwudiwe,Female,25,Enugu,Contractor,418227,2633236,Home Improvement,60,454,0,Vehicle,1
+Zainab Nwosu,Male,33,Borno,Salary Earner,118059,1628458,School Fees,18,389,0,Land,0
+Chukwu Garba,Male,58,Kaduna,Civil Servant,244566,1859771,Agricultural Input,36,657,0,Fixed Deposit,0
+Chiamaka Nnamdi,Female,58,Ogun,Self-Employed,338295,319515,Business Capital,48,473,0,Guarantor,1
+Halima Abubakar,Male,64,Ondo,Trader,472136,1670179,Agricultural Input,6,516,0,Vehicle,0
+Hauwa Okeke,Male,27,Ekiti,Civil Servant,139388,3847267,School Fees,12,755,0,None,1
+Chidi Abubakar,Male,60,Enugu,Salary Earner,228303,721986,Agricultural Input,36,498,0,Land,0
+Dayo Umar,Male,45,Enugu,Civil Servant,295406,2384482,Vehicle Purchase,36,785,0,Vehicle,0
+Seun Suleiman,Female,32,Delta,Farmer,359125,3071786,Medical,6,832,0,None,0
+Obinna Garba,Female,34,Abuja,Salary Earner,413095,187900,School Fees,18,499,1,Vehicle,1
+Obinna Okafor,Female,55,Ogun,Trader,415243,4563962,Agricultural Input,48,670,0,Vehicle,0
+Aisha Eze,Female,46,Osun,Salary Earner,111972,4744668,Business Capital,12,747,0,Guarantor,0
+Bola Obi,Female,28,Kano,Civil Servant,367629,1334283,Agricultural Input,36,547,1,Fixed Deposit,1
+Emeka Yusuf,Male,25,Ekiti,Self-Employed,84722,3868971,Business Capital,18,563,0,Land,0
+Zainab Eze,Female,29,Rivers,Farmer,381643,1553061,Medical,60,357,0,None,1
+Ifeanyi Eze,Male,41,Rivers,Self-Employed,211890,563066,Agricultural Input,48,601,0,Fixed Deposit,0
+Emeka Bello,Female,50,Kwara,Trader,453148,4058146,Asset Acquisition,60,330,1,Land,1
+Dayo Adeyemi,Female,31,Delta,Farmer,299045,2411331,Asset Acquisition,48,797,1,Fixed Deposit,1
+Aisha Bello,Male,64,Delta,Civil Servant,147473,1208343,Medical,12,548,0,Vehicle,0
+Tobi Adeyemi,Male,55,Osun,Farmer,300741,2581113,School Fees,24,570,0,Vehicle,0
+Chiamaka Obi,Male,47,Borno,Farmer,421775,591529,Business Capital,48,693,0,Fixed Deposit,0
+Bola Garba,Male,62,Rivers,Salary Earner,356053,2724415,Asset Acquisition,24,801,0,None,1
+Aisha Adebayo,Female,24,Benue,Self-Employed,364535,4398530,Vehicle Purchase,60,383,0,Land,1
+Nneka Onwudiwe,Female,27,Enugu,Contractor,245286,2203548,School Fees,48,664,0,Vehicle,0
+Tunde Okeke,Male,26,Abuja,Salary Earner,431479,1591019,Business Capital,12,848,0,Guarantor,0
+Yusuf Yusuf,Male,26,Niger,Farmer,355437,168920,Medical,6,641,1,Vehicle,1
+Ifeanyi Onwudiwe,Male,44,Ondo,Contractor,273896,456547,Asset Acquisition,12,706,0,Vehicle,0
+Aisha Onwudiwe,Male,30,Abuja,Salary Earner,186877,1709090,Home Improvement,12,724,0,Land,1
+Funmi Chukwuemeka,Male,56,Plateau,Farmer,41874,1707583,Agricultural Input,6,392,0,Guarantor,1
+Tunde Okafor,Male,41,Borno,Civil Servant,254137,113014,Medical,6,711,1,Vehicle,0
+Fatima Chukwuemeka,Female,63,Ogun,Civil Servant,378546,3759362,Business Capital,18,731,0,Land,0
+Blessing Chukwuemeka,Male,56,Ekiti,Salary Earner,306223,1285382,Business Capital,48,458,0,Fixed Deposit,0
+Halima Lawal,Male,39,Enugu,Salary Earner,473066,4582889,Business Capital,60,313,0,Fixed Deposit,1
+Chiamaka Adeyemi,Female,38,Osun,Farmer,364923,3241849,Business Capital,18,672,0,Guarantor,0
+Nneka Okafor,Male,45,Delta,Trader,125408,3932506,Agricultural Input,6,524,1,Vehicle,1
+Chioma Babatunde,Female,24,Enugu,Farmer,432234,2469493,School Fees,24,804,0,Guarantor,0
+Rukayat Obi,Female,53,Kwara,Civil Servant,150606,406778,Vehicle Purchase,60,372,0,Vehicle,0
+Funmi Okafor,Male,56,Osun,Salary Earner,472716,1347682,Home Improvement,24,548,0,Land,0
+Aisha Abubakar,Male,59,Cross River,Farmer,150062,3182293,Agricultural Input,12,810,0,Fixed Deposit,1
+Tunde Okeke,Male,34,Cross River,Salary Earner,42100,1591037,Business Capital,36,515,1,Land,1
+Obinna Musa,Male,46,Benue,Trader,349165,4082371,Agricultural Input,12,840,0,Land,0
+Halima Nwosu,Male,30,Edo,Trader,180872,4904501,Medical,12,519,0,Land,0
+Chukwu Lawal,Female,25,Kwara,Farmer,420270,2652352,Vehicle Purchase,36,520,0,Land,0
+Aisha Bello,Male,35,Ekiti,Contractor,224472,1581817,Business Capital,48,688,0,Land,0
+Obinna Okeke,Male,58,Kano,Salary Earner,384590,2065074,Home Improvement,6,341,1,None,1
+Fatima Adeyemi,Male,55,Anambra,Farmer,321581,4770058,Business Capital,24,582,0,Vehicle,1
+Kabir Okeke,Female,32,Ekiti,Self-Employed,264196,4012931,Vehicle Purchase,12,357,1,Land,0
+Ibrahim Okonkwo,Male,62,Benue,Trader,237609,4590334,Home Improvement,36,836,1,Land,1
+Bola Eze,Male,24,Delta,Self-Employed,469891,1852502,Vehicle Purchase,18,372,0,None,0
+Ngozi Chukwuemeka,Male,49,Ogun,Farmer,181014,1512538,Home Improvement,12,428,0,Guarantor,1
+Amaka Onwudiwe,Female,50,Osun,Trader,313006,2076819,School Fees,24,725,0,Vehicle,0
+Tunde Babatunde,Male,30,Niger,Salary Earner,303813,2124520,Asset Acquisition,6,424,0,None,1
+Tobi Adeyemi,Female,24,Enugu,Self-Employed,413363,2482665,School Fees,12,366,0,Vehicle,0
+Ngozi Babatunde,Female,46,Kwara,Farmer,214844,3984053,Agricultural Input,12,305,0,Vehicle,1
+Emeka Babatunde,Male,55,Enugu,Civil Servant,308060,782722,Agricultural Input,48,613,0,Land,0
+Chukwu Lawal,Female,33,Kwara,Self-Employed,303022,1841396,Home Improvement,36,625,0,Vehicle,0
+Adaeze Chukwuemeka,Male,63,Anambra,Salary Earner,295129,1250847,Business Capital,18,805,0,Vehicle,0
+Dayo Okeke,Female,30,Benue,Salary Earner,234720,1084104,Asset Acquisition,18,381,0,Guarantor,1
+Nneka Onwudiwe,Female,36,Plateau,Trader,71235,2500700,Medical,60,301,0,Vehicle,0
+Yusuf Abubakar,Male,61,Plateau,Civil Servant,311075,3925416,Medical,6,503,0,Guarantor,0
+Adaeze Abubakar,Male,46,Niger,Salary Earner,122876,4068293,Business Capital,60,703,1,Land,1
+Chioma Yusuf,Female,26,Osun,Self-Employed,30336,1266053,Business Capital,24,402,0,Land,0
+Rukayat Okeke,Male,32,Abuja,Self-Employed,335077,4151599,School Fees,6,835,1,Vehicle,0
+Chioma Obi,Male,55,Ogun,Salary Earner,337680,1744000,Medical,12,667,0,None,0
+Chioma Adeyemi,Male,45,Cross River,Self-Employed,99504,1440598,Home Improvement,12,511,0,Vehicle,0
+Ifeanyi Onwudiwe,Female,36,Osun,Self-Employed,129214,4596925,Vehicle Purchase,18,508,0,Guarantor,1
+Taiwo Garba,Female,59,Ogun,Self-Employed,212220,2619849,Agricultural Input,24,416,0,Vehicle,0
+Ngozi Adeyemi,Male,29,Edo,Farmer,143936,781658,Vehicle Purchase,36,777,0,Land,0
+Taiwo Bello,Male,26,Benue,Salary Earner,46279,3846315,School Fees,24,404,0,Land,0
+Chiamaka Nwosu,Male,47,Niger,Civil Servant,229737,4929797,Medical,12,794,0,Vehicle,1
+Bola Nnamdi,Female,39,Plateau,Civil Servant,133751,3825702,Asset Acquisition,36,345,0,Land,0
+Bola Eze,Male,27,Oyo,Civil Servant,396577,4140284,Business Capital,24,630,0,Land,1
+Seun Okafor,Female,58,Lagos,Farmer,101386,2449771,Asset Acquisition,24,515,1,Fixed Deposit,0
+Tobi Yusuf,Male,34,Kano,Civil Servant,116124,2505918,Asset Acquisition,36,791,0,Land,0
+Aisha Yusuf,Female,49,Edo,Trader,397894,3855721,Medical,12,748,0,Guarantor,0
+Sade Adeyemi,Male,26,Anambra,Farmer,369629,2416304,Home Improvement,24,835,0,Vehicle,0
+Sade Bello,Male,34,Benue,Civil Servant,366199,360435,School Fees,36,810,1,Guarantor,0
+Halima Yusuf,Male,38,Ogun,Trader,121911,208477,Business Capital,48,757,1,Guarantor,0
+Ifeanyi Garba,Female,61,Oyo,Civil Servant,390762,2445682,Vehicle Purchase,48,846,0,Vehicle,1
+Musa Adebayo,Female,53,Ogun,Self-Employed,227742,3780370,Home Improvement,12,835,1,Vehicle,1
+Tunde Obi,Male,50,Enugu,Salary Earner,499690,2487839,Vehicle Purchase,36,839,0,Fixed Deposit,0
+Aisha Adebayo,Female,24,Borno,Salary Earner,477244,3738173,Agricultural Input,48,783,0,None,0
+Seun Musa,Female,61,Ondo,Trader,251094,1396652,School Fees,36,315,1,Land,1
+Nneka Umar,Female,55,Enugu,Farmer,406036,3978685,Home Improvement,24,542,1,Land,1
+Obinna Obi,Male,61,Lagos,Contractor,267723,2030407,Home Improvement,12,506,0,None,0
+Hauwa Bello,Male,48,Benue,Civil Servant,363272,3327746,Vehicle Purchase,48,570,1,Vehicle,0
+Emeka Lawal,Male,34,Oyo,Civil Servant,441324,851125,Business Capital,60,414,0,Guarantor,1
+Sade Yusuf,Female,54,Kano,Salary Earner,344639,2436537,Agricultural Input,24,598,1,Vehicle,1
+Fatima Bello,Female,27,Lagos,Farmer,112806,3048778,Vehicle Purchase,60,782,0,Land,1
+Zainab Abubakar,Female,45,Rivers,Civil Servant,385329,2743695,Home Improvement,60,696,0,Guarantor,0
+Taiwo Adebayo,Male,40,Enugu,Contractor,237605,1818693,School Fees,6,693,0,Guarantor,0
+Yusuf Suleiman,Male,37,Kano,Salary Earner,260097,2041161,Home Improvement,6,374,0,Land,0
+Tobi Bello,Female,61,Borno,Civil Servant,480046,3912949,Medical,12,781,0,Guarantor,0
+Tobi Eze,Female,49,Abuja,Farmer,497856,1360015,School Fees,48,402,0,Fixed Deposit,1
+Blessing Umar,Female,54,Plateau,Civil Servant,475725,3906600,School Fees,48,596,0,Guarantor,0
+Ngozi Lawal,Female,62,Borno,Civil Servant,227478,4563257,Home Improvement,48,477,0,Land,0
+Ibrahim Okeke,Female,34,Kwara,Farmer,200591,151894,Business Capital,36,514,0,Guarantor,0
+Dayo Umar,Male,64,Anambra,Salary Earner,341793,1458277,School Fees,24,614,0,Fixed Deposit,0
+Sade Garba,Male,46,Abuja,Farmer,195596,2583200,Medical,48,338,0,Fixed Deposit,0
+Emeka Okeke,Female,63,Delta,Civil Servant,194957,1654592,Vehicle Purchase,24,558,0,Guarantor,0
+Adaeze Okafor,Female,57,Ondo,Trader,467585,4524024,Business Capital,12,306,1,Land,1
+Tobi Musa,Male,48,Niger,Trader,262204,3617945,Business Capital,60,348,1,Fixed Deposit,1
+Chukwu Okafor,Male,59,Delta,Self-Employed,387546,3716569,Business Capital,48,837,0,Guarantor,0
+Tobi Okafor,Female,28,Cross River,Self-Employed,322820,3279112,School Fees,12,460,0,Land,1
+Rukayat Okeke,Male,26,Rivers,Contractor,356237,1098966,Business Capital,48,475,0,Vehicle,1
+Yusuf Adebayo,Male,64,Borno,Civil Servant,470980,4650549,Home Improvement,6,301,0,Vehicle,0
+Adaeze Nnamdi,Male,52,Benue,Trader,211871,4266794,Business Capital,18,754,0,Guarantor,1
+Tunde Obi,Female,44,Ekiti,Salary Earner,371558,882307,Medical,12,575,1,Land,1
+Tunde Adebayo,Female,63,Kwara,Civil Servant,385239,2139632,Agricultural Input,48,797,0,Guarantor,0
+Taiwo Onwudiwe,Male,31,Kwara,Trader,273154,1890875,Medical,18,327,0,None,0
+Chukwu Adeyemi,Female,53,Abuja,Contractor,102307,4849412,School Fees,12,632,0,Fixed Deposit,0
+Bola Chukwuemeka,Male,64,Cross River,Self-Employed,387576,2418417,Business Capital,36,300,1,None,1
+Ibrahim Adebayo,Male,51,Plateau,Farmer,324067,4245843,Business Capital,48,487,0,None,0
+Chioma Okonkwo,Female,60,Ondo,Civil Servant,409593,3605971,Home Improvement,36,355,0,Land,0
+Musa Musa,Female,52,Edo,Salary Earner,265998,4056389,Vehicle Purchase,6,846,0,Guarantor,0
+Kabir Adebayo,Female,39,Kaduna,Farmer,339718,362579,Business Capital,48,411,0,Vehicle,1
+Ngozi Lawal,Female,57,Edo,Farmer,466607,4123542,Asset Acquisition,60,609,0,None,0
+Zainab Chukwuemeka,Female,23,Oyo,Contractor,151757,1613825,Medical,6,335,0,Vehicle,0
+Zainab Okonkwo,Male,35,Rivers,Civil Servant,83664,3568920,School Fees,18,738,1,None,1
+Fatima Bello,Male,34,Ogun,Salary Earner,359528,4078604,Agricultural Input,12,624,0,Guarantor,0
+Tobi Musa,Male,50,Rivers,Salary Earner,323171,3527794,Business Capital,24,606,0,Fixed Deposit,0
+Zainab Adeyemi,Male,33,Cross River,Self-Employed,196536,1574631,Agricultural Input,6,833,0,Land,0
+Ibrahim Suleiman,Female,60,Borno,Self-Employed,326629,1241890,Business Capital,24,408,0,Land,0
+Ifeanyi Okeke,Male,23,Kano,Farmer,289438,2395251,School Fees,24,671,0,Fixed Deposit,0
+Yusuf Chukwuemeka,Female,53,Oyo,Self-Employed,180528,2942531,Vehicle Purchase,12,656,0,Land,0
+Yusuf Adeyemi,Female,34,Kaduna,Contractor,498011,2873978,Medical,18,480,0,Fixed Deposit,1
+Adaeze Suleiman,Female,48,Enugu,Contractor,327698,4233583,School Fees,12,655,1,Land,0
+Tobi Adeyemi,Male,62,Anambra,Civil Servant,339066,956395,Agricultural Input,48,367,0,Guarantor,0
+Tobi Suleiman,Female,38,Borno,Contractor,305553,3878239,Business Capital,6,591,0,Vehicle,0
+Tunde Eze,Male,61,Kaduna,Farmer,230399,4580734,Agricultural Input,24,480,1,Guarantor,1
+Nneka Okafor,Male,52,Kwara,Civil Servant,252472,3473994,Medical,12,765,0,Guarantor,0
+Blessing Okeke,Female,55,Rivers,Salary Earner,328783,4907018,Asset Acquisition,12,733,0,Vehicle,0
+Tobi Chukwuemeka,Male,45,Niger,Civil Servant,261182,1994606,School Fees,12,763,0,Land,0
+Sade Musa,Male,56,Cross River,Civil Servant,486843,4855028,Agricultural Input,6,833,0,Land,0
+Hauwa Eze,Female,27,Ekiti,Trader,311836,2357600,Agricultural Input,18,365,1,Guarantor,1
+Chiamaka Nwosu,Male,40,Anambra,Civil Servant,119037,1020278,Medical,60,320,0,Guarantor,1
+Funmi Nwosu,Female,51,Rivers,Trader,239912,545919,Asset Acquisition,12,683,0,Fixed Deposit,0
+Tobi Chukwuemeka,Female,28,Kwara,Farmer,215272,3331837,Business Capital,6,338,0,Guarantor,0
+Emeka Nwosu,Female,31,Kano,Salary Earner,254135,2998134,Asset Acquisition,24,584,0,Vehicle,0
+Rukayat Obi,Male,62,Oyo,Contractor,218487,2359608,Agricultural Input,48,635,0,Vehicle,0
+Funmi Chukwuemeka,Male,53,Ondo,Civil Servant,48074,1397203,Medical,60,487,0,Land,1
+Funmi Eze,Female,55,Cross River,Self-Employed,176621,516589,Business Capital,36,542,1,Vehicle,1
+Chukwu Nwosu,Male,49,Rivers,Farmer,322107,2443365,Asset Acquisition,60,372,1,None,0
+Funmi Okafor,Female,36,Abuja,Salary Earner,257434,1237018,Asset Acquisition,60,778,0,None,0
+Seun Adeyemi,Female,51,Osun,Civil Servant,262679,1742737,Asset Acquisition,6,400,0,Vehicle,0
+Chiamaka Onwudiwe,Female,58,Edo,Civil Servant,82265,2317357,Vehicle Purchase,36,813,1,Guarantor,0
+Aisha Abubakar,Male,50,Edo,Self-Employed,46061,1849971,Business Capital,12,475,0,Fixed Deposit,0
+Ibrahim Lawal,Male,43,Ekiti,Contractor,481442,1194337,Asset Acquisition,12,537,0,Vehicle,0
+Blessing Umar,Female,25,Kwara,Civil Servant,189882,1474473,Vehicle Purchase,60,358,0,Land,1
+Ibrahim Eze,Male,41,Edo,Salary Earner,483222,3300428,School Fees,6,398,1,Land,1
+Aisha Okonkwo,Male,53,Niger,Civil Servant,143502,3632334,Medical,36,794,1,Guarantor,1
+Nneka Abubakar,Female,57,Benue,Trader,314944,623881,Asset Acquisition,12,813,0,None,0
+Seun Obi,Female,25,Kaduna,Salary Earner,408336,1068454,Business Capital,24,596,0,Guarantor,0
+Chukwu Bello,Female,48,Rivers,Salary Earner,286505,3928551,Vehicle Purchase,18,510,0,Land,0
+Chidi Adebayo,Female,38,Edo,Salary Earner,137228,4885925,Vehicle Purchase,18,422,0,Land,0
+Blessing Garba,Male,33,Ondo,Salary Earner,236548,3351394,School Fees,12,528,0,Fixed Deposit,1
+Seun Okeke,Female,43,Niger,Trader,492676,2877364,Home Improvement,36,687,1,Fixed Deposit,1
+Musa Okonkwo,Female,38,Rivers,Farmer,480983,3404513,Medical,48,439,0,Guarantor,1
+Fatima Adebayo,Male,31,Ekiti,Self-Employed,320198,2485678,Home Improvement,12,840,1,Guarantor,1
+Ngozi Yusuf,Male,22,Lagos,Farmer,498535,1726644,Business Capital,48,690,0,Land,1
+Chukwu Adeyemi,Female,43,Osun,Self-Employed,206469,3176813,Medical,48,569,0,Fixed Deposit,0
+Fatima Nnamdi,Female,47,Cross River,Contractor,43233,1663560,School Fees,36,311,0,Fixed Deposit,1
+Halima Suleiman,Female,39,Ekiti,Contractor,272277,2343673,Business Capital,48,688,0,Vehicle,0
+Rukayat Obi,Female,35,Ogun,Self-Employed,186140,3525488,Medical,24,636,0,Fixed Deposit,0
+Halima Nnamdi,Male,50,Plateau,Trader,357871,3070745,Medical,36,805,1,Land,0
+Taiwo Okafor,Male,33,Niger,Farmer,382754,4694068,Home Improvement,12,405,1,Land,1
+Seun Yusuf,Female,57,Lagos,Self-Employed,362597,3352923,Business Capital,60,331,0,Land,0
+Tunde Adebayo,Female,56,Ekiti,Salary Earner,134135,3245741,School Fees,24,373,0,Land,1
+Chioma Chukwuemeka,Female,33,Kaduna,Civil Servant,449048,2548714,School Fees,6,470,1,Vehicle,0
+Emeka Garba,Female,28,Rivers,Farmer,400608,266486,Business Capital,18,368,0,Vehicle,0
+Hauwa Okeke,Male,50,Cross River,Contractor,247314,476888,Business Capital,12,661,0,Guarantor,0
+Nneka Abubakar,Male,32,Ondo,Farmer,43682,3606597,Vehicle Purchase,12,732,0,Guarantor,0
+Blessing Chukwuemeka,Female,54,Ogun,Trader,184455,885988,Agricultural Input,12,399,1,Vehicle,1
+Bola Obi,Female,27,Ogun,Civil Servant,350304,600428,Home Improvement,24,308,0,Land,1
+Sade Obi,Female,36,Kaduna,Trader,254404,4507632,Business Capital,6,328,0,Guarantor,0
+Nneka Okafor,Female,53,Ogun,Farmer,315810,2139706,Business Capital,60,413,1,Vehicle,1
+Rukayat Umar,Female,32,Kwara,Self-Employed,350961,1778782,Agricultural Input,36,761,0,Vehicle,0
+Taiwo Umar,Male,44,Plateau,Civil Servant,121198,4355665,Agricultural Input,6,442,0,None,0
+Nneka Chukwuemeka,Male,47,Anambra,Trader,457858,2939190,Medical,24,689,0,Fixed Deposit,0
+Musa Babatunde,Male,55,Delta,Salary Earner,71830,447172,Asset Acquisition,12,456,1,None,1
+Dayo Umar,Female,55,Ondo,Trader,40234,664673,School Fees,18,634,0,Guarantor,0
+Zainab Musa,Male,50,Oyo,Salary Earner,87616,305658,Home Improvement,12,559,1,Land,1
+Tunde Chukwuemeka,Male,25,Cross River,Civil Servant,301365,1540641,Medical,36,381,0,Guarantor,1
+Nneka Babatunde,Male,38,Borno,Trader,172482,1780283,Business Capital,48,740,0,Land,0
+Nneka Nwosu,Male,56,Osun,Self-Employed,241127,804085,Agricultural Input,18,471,1,Vehicle,1
+Sade Yusuf,Female,34,Kano,Salary Earner,222485,801993,Vehicle Purchase,12,530,0,Land,0
+Adaeze Babatunde,Male,62,Niger,Self-Employed,31051,775571,School Fees,60,374,0,Fixed Deposit,0
+Zainab Okonkwo,Male,60,Plateau,Trader,402673,878282,Medical,18,569,0,Land,1
+Adaeze Umar,Female,36,Ekiti,Salary Earner,498517,521761,Vehicle Purchase,48,361,0,None,0
+Tunde Chukwuemeka,Male,50,Niger,Trader,106918,3485715,School Fees,6,619,0,None,0
+Funmi Yusuf,Male,50,Kaduna,Salary Earner,108116,4152748,Asset Acquisition,24,401,0,Guarantor,0
+Sade Obi,Male,32,Ekiti,Contractor,414370,2624469,Asset Acquisition,12,728,0,Fixed Deposit,0
+Obinna Lawal,Female,53,Niger,Contractor,479779,367942,Vehicle Purchase,36,554,1,Guarantor,0
+Obinna Abubakar,Male,23,Edo,Civil Servant,258931,3944456,Agricultural Input,6,831,0,Fixed Deposit,0
+Taiwo Onwudiwe,Female,35,Edo,Civil Servant,336901,3895204,Medical,12,411,1,Vehicle,0
+Funmi Nwosu,Male,41,Borno,Civil Servant,413152,387462,Medical,6,612,0,Fixed Deposit,0
+Nneka Bello,Male,43,Kano,Civil Servant,238547,3978207,Asset Acquisition,36,760,0,Guarantor,0
+Adaeze Garba,Male,32,Kwara,Salary Earner,474473,4594350,School Fees,12,761,0,None,0
+Nneka Nnamdi,Male,48,Edo,Salary Earner,256572,471773,Vehicle Purchase,48,391,0,Guarantor,1
+Musa Bello,Female,24,Oyo,Salary Earner,161379,2480630,Agricultural Input,48,351,0,Guarantor,0
+Ibrahim Eze,Female,38,Oyo,Self-Employed,86889,4613167,Business Capital,36,819,1,Fixed Deposit,1
+Nneka Umar,Female,49,Cross River,Self-Employed,492111,2880514,Medical,18,397,1,Fixed Deposit,1
+Aisha Abubakar,Male,50,Ekiti,Civil Servant,256256,2845126,Business Capital,36,535,1,Guarantor,1
+Yusuf Okonkwo,Male,42,Borno,Contractor,328088,4316399,Agricultural Input,18,673,0,Land,0
+Chioma Eze,Female,37,Oyo,Self-Employed,391699,2777364,Asset Acquisition,12,533,1,Guarantor,0
+Amaka Nnamdi,Male,58,Rivers,Civil Servant,68134,3673638,Medical,18,331,0,None,1
+Chiamaka Bello,Male,41,Kaduna,Self-Employed,450539,2767892,Medical,12,588,0,Fixed Deposit,1
+Obinna Chukwuemeka,Male,27,Rivers,Trader,232834,137593,Vehicle Purchase,12,841,1,Fixed Deposit,1
+Tobi Yusuf,Male,40,Anambra,Trader,257579,741252,Business Capital,60,413,0,Land,1
+Tunde Babatunde,Female,26,Anambra,Trader,55954,952473,Asset Acquisition,24,503,0,Guarantor,1
+Amaka Babatunde,Female,24,Osun,Contractor,216093,176202,Vehicle Purchase,12,328,0,Guarantor,1
+Aisha Musa,Female,22,Kano,Salary Earner,382103,2224758,Home Improvement,18,773,0,Fixed Deposit,0
+Kabir Okonkwo,Male,59,Lagos,Trader,256999,3319497,Business Capital,24,552,0,Land,0
+Tobi Okafor,Male,36,Rivers,Farmer,240938,168542,Business Capital,24,685,0,None,1
+Chidi Chukwuemeka,Male,55,Kaduna,Salary Earner,231499,1467158,Home Improvement,12,361,1,Guarantor,1
+Aisha Nwosu,Male,56,Delta,Contractor,297136,1885932,Agricultural Input,36,814,0,Land,0
+Funmi Garba,Male,46,Kwara,Salary Earner,31961,2722762,Agricultural Input,36,729,0,Vehicle,1
+Obinna Adeyemi,Female,45,Benue,Farmer,42497,1693906,Medical,48,836,0,Vehicle,1
+Zainab Eze,Female,33,Cross River,Salary Earner,455767,3766434,School Fees,24,440,0,Guarantor,0
+Hauwa Okafor,Male,39,Rivers,Self-Employed,499600,505433,Vehicle Purchase,12,599,0,Land,1
+Obinna Musa,Female,36,Benue,Farmer,286446,4869291,School Fees,60,610,0,Land,0
+Funmi Lawal,Female,37,Borno,Civil Servant,478971,140140,Medical,36,770,1,Fixed Deposit,0
+Nneka Garba,Female,48,Anambra,Self-Employed,305399,1565554,School Fees,60,692,1,Land,1
+Zainab Nnamdi,Female,29,Kano,Self-Employed,165639,1634645,Business Capital,12,744,1,Land,0
+Musa Lawal,Male,46,Kwara,Trader,340991,1497307,Business Capital,12,471,1,Guarantor,1
+Sade Garba,Male,38,Borno,Salary Earner,265889,3796962,Home Improvement,24,330,0,Guarantor,0
+Halima Okeke,Male,50,Ondo,Self-Employed,209075,3280786,Home Improvement,60,346,1,Fixed Deposit,1
+Obinna Nwosu,Female,29,Ondo,Trader,50389,4726103,Medical,48,429,0,Vehicle,1
+Rukayat Onwudiwe,Male,36,Borno,Trader,205595,3501001,Medical,24,651,0,Fixed Deposit,0
+Obinna Adebayo,Male,48,Niger,Self-Employed,415946,3466403,Asset Acquisition,6,357,0,Guarantor,1
+Chidi Eze,Male,28,Kaduna,Farmer,353720,1848594,Medical,60,405,0,Land,1
+Ibrahim Adebayo,Male,24,Benue,Trader,336063,3671420,Business Capital,36,629,0,Land,0
+Chidi Garba,Female,50,Delta,Trader,243175,2439127,School Fees,36,682,1,Vehicle,0
+Amaka Eze,Female,45,Niger,Civil Servant,33358,3993439,Vehicle Purchase,36,461,0,Vehicle,1
+Chukwu Lawal,Male,24,Rivers,Salary Earner,380679,1945618,Asset Acquisition,18,585,0,Fixed Deposit,1
+Bola Umar,Male,41,Plateau,Self-Employed,282557,4690239,Asset Acquisition,12,370,0,Guarantor,0
+Aisha Adebayo,Male,36,Cross River,Self-Employed,237596,2927448,Asset Acquisition,24,753,0,Vehicle,0
+Musa Obi,Male,46,Osun,Civil Servant,284488,1301661,Medical,36,696,0,Land,0
+Tobi Okeke,Male,51,Plateau,Salary Earner,135982,3514524,Medical,6,814,0,Land,0
+Bola Musa,Male,35,Rivers,Civil Servant,258129,1164100,Business Capital,36,325,0,Guarantor,1
+Yusuf Eze,Male,28,Osun,Self-Employed,297842,1559390,Vehicle Purchase,48,612,0,Vehicle,0
+Seun Musa,Female,38,Lagos,Self-Employed,358953,2057878,Business Capital,12,425,1,Guarantor,1
+Dayo Abubakar,Female,41,Anambra,Trader,123079,4762037,Vehicle Purchase,60,707,0,Land,0
+Bola Chukwuemeka,Male,57,Kaduna,Civil Servant,85805,365617,Business Capital,12,497,0,Guarantor,0
+Halima Obi,Male,30,Ogun,Salary Earner,192421,1854053,School Fees,60,487,0,None,0
+Zainab Lawal,Female,59,Osun,Trader,237849,1143015,Medical,60,783,0,Vehicle,0
+Halima Adeyemi,Male,43,Plateau,Salary Earner,473464,4520756,Agricultural Input,24,749,1,Guarantor,1
+Tunde Chukwuemeka,Female,23,Cross River,Farmer,367177,141563,Agricultural Input,18,822,0,None,1
+Seun Yusuf,Female,45,Ogun,Farmer,268483,2898768,Medical,60,653,0,Vehicle,0
+Dayo Okonkwo,Male,29,Ondo,Self-Employed,390383,1395801,Asset Acquisition,60,399,1,Guarantor,1
+Chiamaka Yusuf,Male,32,Anambra,Trader,422551,2877754,Medical,24,577,0,Land,0
+Seun Onwudiwe,Female,34,Borno,Civil Servant,74041,1632701,Medical,36,790,0,Guarantor,1
+Emeka Suleiman,Male,38,Benue,Civil Servant,324098,1740992,Medical,48,554,0,Land,1
+Adaeze Babatunde,Female,29,Kwara,Salary Earner,300146,4412200,Asset Acquisition,6,680,1,None,1
+Chiamaka Chukwuemeka,Female,42,Oyo,Self-Employed,361927,1067497,Vehicle Purchase,24,841,1,Fixed Deposit,1
+Zainab Okeke,Female,39,Osun,Contractor,137524,3909949,School Fees,18,563,0,Fixed Deposit,0
+Funmi Nnamdi,Male,51,Oyo,Self-Employed,248306,4274367,Agricultural Input,24,628,0,Fixed Deposit,0
+Tobi Eze,Female,39,Kano,Civil Servant,417001,3789469,Home Improvement,12,414,0,Guarantor,0
+Amaka Eze,Male,52,Oyo,Civil Servant,49738,304371,Agricultural Input,36,575,1,Vehicle,1
+Chukwu Chukwuemeka,Male,59,Ekiti,Civil Servant,302847,3133128,Agricultural Input,36,787,1,None,1
+Amaka Okonkwo,Female,53,Edo,Salary Earner,143776,2249318,Asset Acquisition,60,580,0,None,0
+Seun Obi,Male,32,Edo,Self-Employed,210494,3144510,Business Capital,36,574,1,Guarantor,0
+Nneka Babatunde,Female,46,Benue,Farmer,222971,1212180,Medical,36,627,0,None,0
+Rukayat Nwosu,Female,54,Delta,Salary Earner,435608,470888,Medical,36,510,0,Guarantor,0
+Ibrahim Lawal,Male,59,Lagos,Salary Earner,336868,1413133,Medical,36,325,0,Guarantor,0
+Hauwa Musa,Male,62,Osun,Salary Earner,324443,240285,Business Capital,6,326,0,Guarantor,0
+Sade Okeke,Male,29,Rivers,Self-Employed,307785,3246699,Asset Acquisition,18,382,1,Land,1
+Emeka Babatunde,Male,32,Borno,Trader,371678,2567649,School Fees,60,712,0,Land,0
+Ifeanyi Yusuf,Male,43,Anambra,Salary Earner,298449,2261130,School Fees,36,466,0,Land,0
+Nneka Okonkwo,Female,45,Lagos,Salary Earner,259334,1257739,Asset Acquisition,60,468,1,Guarantor,1
+Bola Chukwuemeka,Male,62,Ekiti,Self-Employed,310926,2251016,Home Improvement,18,528,1,Vehicle,1
+Yusuf Lawal,Male,38,Abuja,Farmer,370401,3178411,School Fees,48,666,0,Vehicle,0
+Ngozi Adeyemi,Female,33,Plateau,Civil Servant,266371,4638599,Asset Acquisition,36,827,0,None,0
+Chukwu Babatunde,Male,53,Delta,Self-Employed,107963,2766826,School Fees,60,837,0,Vehicle,1
+Musa Abubakar,Female,36,Anambra,Farmer,151987,1538543,Medical,24,823,0,Guarantor,0
+Obinna Obi,Male,37,Ekiti,Civil Servant,181638,2752303,Vehicle Purchase,60,371,1,Land,1
+Musa Babatunde,Male,43,Ekiti,Trader,154591,2487587,Asset Acquisition,36,405,1,Land,1
+Chukwu Chukwuemeka,Female,49,Abuja,Trader,97766,3202963,Agricultural Input,12,581,0,Fixed Deposit,0
+Chukwu Bello,Female,41,Kaduna,Self-Employed,36511,1161288,School Fees,6,432,0,Guarantor,1
+Amaka Okonkwo,Female,54,Kwara,Self-Employed,144816,3348273,School Fees,24,833,0,Fixed Deposit,0
+Rukayat Okeke,Female,31,Kaduna,Salary Earner,279432,1821503,Business Capital,24,568,1,Land,1
+Chioma Suleiman,Female,61,Abuja,Self-Employed,449393,4370153,Home Improvement,12,711,0,Guarantor,1
+Aisha Bello,Male,53,Lagos,Contractor,296909,4499797,Vehicle Purchase,36,317,0,Vehicle,0
+Chidi Adeyemi,Male,54,Borno,Self-Employed,181426,654111,Business Capital,6,416,0,Land,0
+Chidi Okonkwo,Female,23,Oyo,Salary Earner,316073,1202791,Medical,24,443,0,Land,0
+Aisha Abubakar,Female,54,Abuja,Farmer,189892,3961087,Agricultural Input,6,721,0,Land,1
+Ibrahim Okonkwo,Female,54,Ondo,Civil Servant,141576,2493869,Home Improvement,24,668,0,Vehicle,0
+Sade Musa,Male,62,Abuja,Salary Earner,452739,797948,Business Capital,36,349,1,Land,1
+Aisha Musa,Male,34,Borno,Self-Employed,101088,2609244,Asset Acquisition,48,405,1,None,1
+Amaka Okafor,Female,51,Abuja,Self-Employed,489379,881635,School Fees,24,515,1,Vehicle,1
+Ifeanyi Abubakar,Male,54,Ondo,Farmer,107525,1517217,School Fees,48,724,0,Land,1
+Obinna Adebayo,Female,34,Ondo,Salary Earner,43780,2794686,Home Improvement,24,371,0,Land,0
+Chidi Suleiman,Female,47,Edo,Self-Employed,298733,3280545,School Fees,18,745,0,Guarantor,0
+Ngozi Nnamdi,Male,43,Anambra,Civil Servant,458028,281414,Asset Acquisition,36,485,0,Land,1
+Sade Okafor,Female,60,Benue,Self-Employed,385808,4501116,Business Capital,12,369,1,None,1
+Chidi Nwosu,Female,23,Ogun,Civil Servant,469155,2113729,Business Capital,48,449,0,None,0
+Adaeze Okafor,Male,59,Enugu,Civil Servant,474709,2452110,School Fees,12,545,0,Land,0
+Ifeanyi Okonkwo,Female,60,Kaduna,Self-Employed,134188,1693083,School Fees,36,837,1,Guarantor,1
+Hauwa Umar,Male,47,Borno,Contractor,123326,2065726,Medical,60,398,1,Land,1
+Ifeanyi Babatunde,Female,36,Kano,Civil Servant,333097,3452862,Agricultural Input,12,577,0,Guarantor,0
+Seun Abubakar,Male,55,Edo,Salary Earner,95785,1460808,Home Improvement,36,754,0,Vehicle,0
+Bola Yusuf,Female,63,Ekiti,Civil Servant,49309,4231430,Business Capital,12,403,0,Vehicle,1
+Dayo Eze,Male,61,Anambra,Farmer,84195,71650,Home Improvement,48,532,0,Land,0
+Fatima Umar,Male,32,Cross River,Farmer,55901,1454962,Medical,18,693,0,Guarantor,0
+Chiamaka Nnamdi,Female,24,Rivers,Salary Earner,184648,3073846,Business Capital,12,800,0,Vehicle,0
+Funmi Okafor,Male,27,Kwara,Contractor,454724,1923204,Medical,48,550,1,Land,1
+Funmi Yusuf,Male,30,Cross River,Self-Employed,497927,2963293,Medical,24,820,0,Guarantor,0
+Funmi Adeyemi,Female,27,Ogun,Salary Earner,55464,2389189,Vehicle Purchase,36,378,0,Guarantor,0
+Blessing Okeke,Female,30,Enugu,Salary Earner,483497,256251,School Fees,6,351,0,None,1
+Halima Suleiman,Female,60,Ogun,Salary Earner,308404,3894328,Asset Acquisition,60,525,0,Land,0
+Bola Garba,Female,52,Cross River,Trader,154997,4120101,Vehicle Purchase,6,350,1,Fixed Deposit,1
+Kabir Obi,Male,53,Kwara,Salary Earner,327584,4563207,Home Improvement,36,485,0,Guarantor,0
+Emeka Chukwuemeka,Male,62,Delta,Salary Earner,387226,1466693,Asset Acquisition,18,333,0,Land,1
+Ibrahim Onwudiwe,Male,33,Enugu,Trader,397727,944801,Home Improvement,12,430,0,Guarantor,0
+Fatima Chukwuemeka,Female,29,Ekiti,Self-Employed,86683,1774854,School Fees,18,742,1,Vehicle,1
+Blessing Lawal,Female,29,Abuja,Salary Earner,416350,432811,Asset Acquisition,6,731,0,None,1
+Dayo Musa,Female,49,Kano,Salary Earner,202502,4745995,Vehicle Purchase,60,796,1,Land,1
+Halima Nwosu,Female,41,Enugu,Salary Earner,425203,1058314,Home Improvement,48,702,0,Guarantor,0
+Rukayat Garba,Male,28,Benue,Salary Earner,186177,4458608,Vehicle Purchase,60,622,0,Vehicle,1
+Kabir Adebayo,Male,32,Lagos,Farmer,108484,2543330,School Fees,36,509,0,None,0
+Sade Okeke,Male,41,Borno,Salary Earner,279819,1767787,Asset Acquisition,36,628,1,Vehicle,0
+Chidi Onwudiwe,Male,37,Cross River,Salary Earner,436242,4446208,Asset Acquisition,18,671,1,None,0
+Obinna Chukwuemeka,Male,25,Kano,Farmer,360453,761716,Business Capital,48,759,0,None,0
+Ibrahim Yusuf,Female,27,Kaduna,Farmer,338071,2817257,Medical,18,432,0,Vehicle,1
+Chukwu Obi,Male,43,Anambra,Self-Employed,236486,2885623,Medical,12,420,0,Fixed Deposit,0
+Chiamaka Eze,Male,47,Cross River,Civil Servant,480751,1749660,Vehicle Purchase,24,751,0,None,1
+Ibrahim Bello,Male,24,Osun,Self-Employed,335090,395430,Asset Acquisition,48,428,0,Vehicle,1
+Chukwu Lawal,Female,62,Plateau,Civil Servant,418647,878411,Home Improvement,24,390,1,Vehicle,0
+Aisha Lawal,Female,63,Edo,Civil Servant,479777,1907845,Vehicle Purchase,60,328,1,Guarantor,0
+Ifeanyi Nnamdi,Male,35,Oyo,Self-Employed,171449,2555365,Vehicle Purchase,12,823,0,Vehicle,0
+Nneka Babatunde,Male,32,Edo,Trader,83592,1989983,Agricultural Input,24,632,0,Land,0
+Musa Okonkwo,Female,39,Plateau,Salary Earner,168419,897405,Asset Acquisition,6,596,1,Land,1
+Amaka Obi,Male,33,Benue,Farmer,325920,2341947,Medical,60,429,1,Vehicle,1
+Ngozi Onwudiwe,Female,44,Borno,Salary Earner,426999,283462,Asset Acquisition,24,592,0,Vehicle,1
+Tunde Suleiman,Female,33,Enugu,Farmer,85798,3036068,School Fees,12,472,0,Land,1
+Funmi Adebayo,Male,34,Delta,Civil Servant,165370,2018921,Vehicle Purchase,24,323,0,None,1
+Musa Adebayo,Male,46,Rivers,Trader,362348,3451447,Agricultural Input,36,398,0,Fixed Deposit,1
+Tobi Nnamdi,Female,40,Oyo,Salary Earner,378351,2700196,Agricultural Input,18,705,0,Land,1
+Dayo Adebayo,Male,57,Enugu,Civil Servant,392500,3838264,Medical,6,655,0,Guarantor,1
+Zainab Okonkwo,Male,29,Delta,Civil Servant,478377,3750357,Medical,36,438,0,Guarantor,0
+Taiwo Abubakar,Female,50,Ogun,Farmer,352796,460226,Medical,36,802,0,None,0
+Bola Eze,Female,53,Ogun,Civil Servant,457700,1814694,School Fees,12,473,0,Land,0
+Rukayat Chukwuemeka,Female,39,Ondo,Civil Servant,421716,1857254,Agricultural Input,18,328,0,Land,0
+Amaka Okeke,Female,27,Kwara,Self-Employed,273767,4901039,Home Improvement,18,795,1,None,0
+Chidi Eze,Male,39,Enugu,Self-Employed,50922,1722349,School Fees,48,650,1,None,0
+Dayo Onwudiwe,Male,40,Osun,Civil Servant,457244,181562,Business Capital,60,598,0,Fixed Deposit,1
+Kabir Onwudiwe,Female,43,Borno,Salary Earner,443532,1102305,Vehicle Purchase,6,491,0,Fixed Deposit,1
+Obinna Okonkwo,Female,58,Cross River,Contractor,369140,4502664,Medical,60,363,1,Land,1
+Bola Umar,Male,53,Kaduna,Farmer,440184,3217126,Agricultural Input,12,514,0,Guarantor,0
+Aisha Babatunde,Female,62,Benue,Contractor,322410,2443946,Vehicle Purchase,6,465,0,Land,0
+Dayo Eze,Male,24,Abuja,Salary Earner,256817,4872481,Asset Acquisition,48,842,0,Land,0
+Adaeze Yusuf,Male,49,Anambra,Trader,447216,3461031,School Fees,24,531,0,Fixed Deposit,0
+Blessing Onwudiwe,Male,31,Ondo,Trader,437227,410306,Business Capital,36,840,0,Land,0
+Zainab Garba,Male,56,Kano,Farmer,32866,2774274,Asset Acquisition,6,494,1,Guarantor,1
+Blessing Chukwuemeka,Male,50,Niger,Civil Servant,142669,1644502,School Fees,60,805,0,None,0
+Rukayat Okeke,Male,36,Kano,Self-Employed,298042,3983233,School Fees,36,633,0,Land,0
+Musa Suleiman,Male,54,Osun,Trader,310539,1538303,Home Improvement,12,603,1,None,1
+Dayo Lawal,Female,28,Plateau,Civil Servant,200091,568490,Vehicle Purchase,60,736,0,None,0
+Chukwu Umar,Female,33,Enugu,Salary Earner,296150,2123946,Home Improvement,24,622,0,Guarantor,0
+Chukwu Eze,Female,51,Kaduna,Self-Employed,195465,2610244,School Fees,12,801,0,Land,1
+Fatima Abubakar,Female,42,Lagos,Contractor,303100,4279228,Business Capital,24,692,0,Vehicle,0
+Musa Okafor,Male,52,Lagos,Trader,473258,1311368,Agricultural Input,24,448,0,Vehicle,0
+Rukayat Okeke,Male,45,Enugu,Contractor,429294,1953124,Agricultural Input,36,704,0,Vehicle,0
+Chidi Nwosu,Female,41,Oyo,Civil Servant,452847,2842537,Asset Acquisition,12,582,0,Vehicle,0
+Tunde Abubakar,Male,58,Ondo,Salary Earner,387820,3197887,Vehicle Purchase,12,661,0,None,1
+Rukayat Onwudiwe,Female,25,Plateau,Salary Earner,151724,4714496,Medical,6,678,0,Land,0
+Chukwu Yusuf,Male,49,Oyo,Salary Earner,92901,1637542,Medical,60,497,0,Fixed Deposit,0
+Chidi Garba,Female,41,Rivers,Salary Earner,399371,3912163,Agricultural Input,12,655,0,Land,0
+Sade Umar,Male,45,Kaduna,Self-Employed,230569,4906436,School Fees,6,839,0,Guarantor,0
+Fatima Abubakar,Female,53,Kwara,Salary Earner,147192,1690027,School Fees,18,728,0,None,0
+Adaeze Eze,Male,62,Edo,Self-Employed,202646,2876267,Home Improvement,18,316,1,Vehicle,1
+Blessing Nwosu,Female,57,Delta,Contractor,323561,204536,Vehicle Purchase,18,678,0,Land,0
+Adaeze Okonkwo,Male,55,Benue,Self-Employed,380164,4819729,Home Improvement,48,805,0,Guarantor,0
+Dayo Okeke,Female,57,Plateau,Trader,375783,4667752,Medical,12,375,1,Fixed Deposit,1
+Yusuf Adebayo,Female,23,Kwara,Civil Servant,488222,2995081,Agricultural Input,48,530,0,Guarantor,0
+Chioma Adeyemi,Male,36,Ondo,Salary Earner,124881,2648385,Asset Acquisition,60,547,0,Vehicle,1
+Zainab Umar,Female,55,Lagos,Self-Employed,272934,674773,School Fees,12,601,1,Vehicle,0
+Dayo Musa,Female,57,Niger,Salary Earner,462670,2067528,Agricultural Input,6,514,1,None,1
+Kabir Onwudiwe,Male,27,Niger,Self-Employed,162659,1728332,Business Capital,48,457,0,None,1
+Fatima Okonkwo,Female,60,Abuja,Farmer,151688,1052021,Agricultural Input,48,368,0,Guarantor,0
+Ifeanyi Umar,Female,63,Rivers,Salary Earner,145584,2235132,Business Capital,60,692,0,Fixed Deposit,0
+Amaka Onwudiwe,Female,33,Kaduna,Salary Earner,215782,1468314,Home Improvement,48,384,1,Guarantor,1
+Obinna Obi,Male,24,Oyo,Self-Employed,378711,3672541,Home Improvement,24,566,0,Vehicle,0
+Ngozi Adeyemi,Male,39,Kano,Contractor,252820,342007,Medical,6,368,0,Land,1
+Chukwu Onwudiwe,Female,61,Lagos,Farmer,368030,2545990,Agricultural Input,18,646,1,Vehicle,1
+Fatima Bello,Female,42,Rivers,Farmer,442032,4114610,Agricultural Input,6,722,0,Guarantor,0
+Seun Onwudiwe,Male,36,Cross River,Salary Earner,246896,1574960,Business Capital,24,473,1,Land,1
+Bola Yusuf,Female,54,Abuja,Farmer,321576,2978785,Home Improvement,60,414,0,Vehicle,1
+Kabir Adeyemi,Male,56,Oyo,Farmer,209689,1419971,Business Capital,60,519,0,Fixed Deposit,0
+Yusuf Musa,Male,47,Kano,Civil Servant,364517,4841164,Home Improvement,12,330,0,Guarantor,1
+Funmi Yusuf,Male,29,Delta,Contractor,195289,1662119,Business Capital,6,822,1,Guarantor,1
+Adaeze Bello,Male,57,Cross River,Self-Employed,313028,437773,Home Improvement,60,642,0,None,0
+Aisha Okafor,Female,51,Kaduna,Contractor,297598,4266803,Business Capital,48,676,0,Land,1
+Zainab Chukwuemeka,Male,44,Osun,Trader,104960,676840,Asset Acquisition,60,429,0,Guarantor,0
+Sade Nnamdi,Female,63,Kaduna,Salary Earner,132421,4689148,Home Improvement,60,838,0,Fixed Deposit,1
+Funmi Nnamdi,Female,35,Edo,Civil Servant,268245,1684224,Vehicle Purchase,60,301,1,Guarantor,1
+Aisha Garba,Female,35,Benue,Contractor,73618,1496395,Business Capital,60,400,0,Vehicle,1
+Seun Lawal,Male,23,Plateau,Salary Earner,485887,2633677,Agricultural Input,18,832,0,Land,0
+Hauwa Lawal,Male,58,Abuja,Civil Servant,77111,4109626,Medical,18,357,1,None,1
+Adaeze Yusuf,Female,26,Ogun,Contractor,462829,921905,Vehicle Purchase,12,688,0,Guarantor,0
+Halima Umar,Female,59,Benue,Civil Servant,246750,193704,Vehicle Purchase,60,640,0,None,0
+Ifeanyi Nnamdi,Male,62,Benue,Salary Earner,150592,115756,Business Capital,6,319,0,Guarantor,0
+Chioma Nnamdi,Female,35,Delta,Civil Servant,264000,1417064,Medical,24,554,1,Guarantor,1
+Rukayat Okafor,Female,60,Abuja,Salary Earner,285989,3596293,Agricultural Input,12,616,0,Fixed Deposit,0
+Chidi Abubakar,Female,46,Kano,Civil Servant,352137,4053314,Vehicle Purchase,6,337,0,Guarantor,0
+Kabir Abubakar,Female,41,Benue,Salary Earner,158652,4764386,Agricultural Input,60,836,0,Vehicle,0
+Chukwu Bello,Female,23,Ondo,Civil Servant,432064,2446640,Home Improvement,36,685,0,Guarantor,0
+Ngozi Eze,Male,60,Lagos,Civil Servant,108672,3328262,Asset Acquisition,60,325,0,Fixed Deposit,1
+Ngozi Okeke,Female,27,Kano,Farmer,280351,1975464,Medical,18,753,0,Vehicle,0
+Bola Nwosu,Female,38,Cross River,Civil Servant,358269,1966796,Asset Acquisition,24,622,0,Vehicle,0
+Emeka Chukwuemeka,Male,46,Abuja,Civil Servant,247516,1336188,School Fees,48,812,0,Land,1
+Obinna Nnamdi,Male,49,Delta,Farmer,409653,483797,Home Improvement,24,312,0,None,1
+Amaka Umar,Male,23,Edo,Salary Earner,91602,3135945,Medical,48,670,0,Land,1
+Chioma Eze,Female,56,Ogun,Civil Servant,233117,4218773,Business Capital,24,590,1,Guarantor,0
+Adaeze Umar,Female,58,Osun,Salary Earner,267069,850607,Asset Acquisition,18,631,1,Vehicle,1
+Dayo Lawal,Male,26,Plateau,Contractor,72222,1834094,Business Capital,48,560,0,Vehicle,1
+Bola Eze,Female,22,Ondo,Salary Earner,341367,2194797,Agricultural Input,6,504,0,Guarantor,1
+Hauwa Adebayo,Male,61,Ekiti,Self-Employed,271084,289608,Vehicle Purchase,48,686,0,Land,0
+Funmi Yusuf,Female,33,Oyo,Farmer,272318,4791875,Asset Acquisition,12,767,1,Guarantor,1
+Nneka Abubakar,Female,57,Benue,Civil Servant,95333,3712097,School Fees,6,714,1,Fixed Deposit,0
+Halima Okafor,Female,44,Plateau,Salary Earner,213804,399115,Business Capital,12,368,1,Fixed Deposit,1
+Zainab Eze,Male,52,Ogun,Civil Servant,414794,4074919,Medical,60,771,0,Land,0
+Kabir Musa,Male,32,Kano,Civil Servant,79420,4347084,Asset Acquisition,24,403,0,None,1
+Hauwa Adebayo,Male,31,Lagos,Farmer,105504,867166,Asset Acquisition,6,460,0,Guarantor,1
+Ibrahim Musa,Male,24,Cross River,Self-Employed,32462,3196243,Vehicle Purchase,24,499,0,None,1
+Bola Adeyemi,Female,35,Ondo,Civil Servant,301604,4092942,Vehicle Purchase,60,515,0,Guarantor,0
+Ngozi Umar,Female,37,Abuja,Civil Servant,129319,903159,Medical,36,511,1,Guarantor,1
+Sade Yusuf,Female,31,Abuja,Farmer,286674,3948888,Vehicle Purchase,24,807,0,None,0
+Hauwa Umar,Female,50,Kano,Civil Servant,170347,945596,Business Capital,60,315,0,None,1
+Obinna Okafor,Female,31,Enugu,Civil Servant,174341,2481129,Medical,24,797,0,Vehicle,0
+Obinna Umar,Female,33,Ogun,Salary Earner,159593,4827347,Medical,60,631,1,Vehicle,0
+Dayo Babatunde,Female,51,Anambra,Salary Earner,152672,1650720,Agricultural Input,12,555,0,Vehicle,0
+Chukwu Garba,Female,62,Kaduna,Salary Earner,489158,2655327,School Fees,60,471,0,Vehicle,0
+Zainab Onwudiwe,Male,22,Delta,Salary Earner,365064,3269598,Asset Acquisition,48,797,1,Vehicle,0
+Obinna Bello,Male,26,Cross River,Self-Employed,314697,3332808,Agricultural Input,36,770,0,Vehicle,0
+Sade Adeyemi,Male,41,Lagos,Civil Servant,447582,2019412,School Fees,24,683,0,None,0
+Tobi Chukwuemeka,Female,29,Enugu,Salary Earner,74036,640611,Medical,60,806,0,Land,0
+Rukayat Obi,Female,64,Kano,Contractor,178441,4676510,Asset Acquisition,60,826,0,Guarantor,1
+Sade Adebayo,Male,33,Rivers,Salary Earner,172867,3992033,Vehicle Purchase,24,624,1,Land,0
+Emeka Bello,Female,22,Ogun,Farmer,100021,4982206,School Fees,36,513,1,Vehicle,1
+Aisha Yusuf,Female,41,Kaduna,Civil Servant,399349,478556,Medical,36,507,0,Land,0
+Ifeanyi Okonkwo,Male,49,Ogun,Self-Employed,491370,3725049,Medical,60,468,0,Vehicle,0
+Chidi Adebayo,Male,64,Kano,Salary Earner,191215,530350,Agricultural Input,6,629,0,Fixed Deposit,0
+Ifeanyi Adeyemi,Female,58,Kwara,Civil Servant,452641,546232,Agricultural Input,12,579,0,None,0
+Chidi Nwosu,Male,58,Cross River,Self-Employed,380353,3684183,Vehicle Purchase,36,604,0,Land,0
+Amaka Garba,Female,33,Kwara,Contractor,367283,1737023,Home Improvement,36,445,0,Guarantor,1
+Kabir Lawal,Male,58,Rivers,Civil Servant,266304,2678973,Business Capital,18,815,0,Guarantor,0
+Hauwa Adebayo,Female,49,Benue,Contractor,35368,2096719,Home Improvement,48,389,1,None,1
+Ngozi Yusuf,Female,36,Ekiti,Salary Earner,165693,3921240,Home Improvement,36,752,0,Fixed Deposit,0
+Halima Onwudiwe,Female,27,Anambra,Farmer,88829,3962669,Asset Acquisition,12,359,0,Guarantor,1
+Bola Onwudiwe,Female,41,Delta,Civil Servant,421180,1476548,Asset Acquisition,48,610,0,Guarantor,0
+Blessing Chukwuemeka,Male,35,Kano,Farmer,483510,4041818,Vehicle Purchase,48,827,1,Fixed Deposit,1
+Musa Obi,Male,23,Niger,Salary Earner,306863,3829044,Asset Acquisition,24,526,0,Land,0
+Nneka Okafor,Male,30,Ogun,Farmer,59227,2074611,School Fees,24,773,0,Vehicle,1
+Chiamaka Nwosu,Female,58,Osun,Civil Servant,139430,300231,Vehicle Purchase,24,840,0,None,0
+Musa Chukwuemeka,Female,41,Edo,Farmer,430782,1111516,Vehicle Purchase,24,378,0,Fixed Deposit,0
+Dayo Onwudiwe,Female,47,Lagos,Self-Employed,42306,4624475,Medical,18,732,0,Guarantor,0
+Adaeze Babatunde,Male,50,Kaduna,Trader,83822,4785524,Medical,36,452,1,Guarantor,1
+Ibrahim Okeke,Male,22,Abuja,Salary Earner,54042,3422105,Medical,24,700,1,Vehicle,1
+Chioma Lawal,Male,56,Kwara,Trader,438302,1028935,Business Capital,60,578,1,Guarantor,1
+Bola Obi,Male,27,Kaduna,Trader,178459,1080451,School Fees,6,356,0,Guarantor,0
+Chukwu Obi,Female,58,Kwara,Trader,450258,2180118,School Fees,24,485,0,Vehicle,0
+Fatima Babatunde,Male,26,Rivers,Civil Servant,119424,470993,Medical,36,697,0,Fixed Deposit,0
+Chiamaka Garba,Male,54,Enugu,Self-Employed,212690,3451461,Home Improvement,24,457,1,None,1
+Ibrahim Okonkwo,Female,35,Kano,Contractor,253122,2310791,Business Capital,18,658,0,Land,0
+Nneka Okeke,Male,33,Edo,Salary Earner,179395,296331,Home Improvement,12,739,0,Guarantor,0
+Obinna Chukwuemeka,Male,63,Kwara,Civil Servant,48019,3081830,Agricultural Input,12,765,0,Vehicle,1
+Chioma Abubakar,Female,41,Cross River,Farmer,367570,4434575,School Fees,36,745,0,Guarantor,1
+Taiwo Suleiman,Male,45,Ekiti,Farmer,70863,4651318,School Fees,60,787,0,Land,0
+Sade Onwudiwe,Female,64,Enugu,Salary Earner,141023,4130790,Home Improvement,12,829,0,Guarantor,0
+Kabir Lawal,Female,55,Kwara,Farmer,171355,2846749,Business Capital,12,372,0,None,0
+Chidi Adeyemi,Female,46,Kaduna,Trader,441495,3916585,School Fees,6,316,1,Vehicle,1
+Tunde Adebayo,Male,50,Ondo,Salary Earner,339143,2802690,Home Improvement,36,830,0,None,0
+Zainab Musa,Female,60,Edo,Trader,92780,1053510,Vehicle Purchase,60,625,0,None,1
+Hauwa Umar,Male,52,Kwara,Salary Earner,315052,4261422,Vehicle Purchase,36,845,0,Land,0
+Obinna Onwudiwe,Male,64,Edo,Self-Employed,222656,1121192,Asset Acquisition,12,501,0,Land,1
+Fatima Okonkwo,Male,44,Kano,Salary Earner,418422,3465473,Business Capital,12,643,1,None,0
+Kabir Nnamdi,Female,59,Borno,Salary Earner,405146,1910371,Home Improvement,12,822,0,None,0
+Funmi Eze,Male,41,Edo,Trader,473441,4247099,Asset Acquisition,48,699,0,Land,1
+Dayo Nwosu,Male,44,Delta,Self-Employed,199024,3560764,Vehicle Purchase,18,517,0,Land,0
+Adaeze Okeke,Female,37,Cross River,Self-Employed,130706,1621480,Business Capital,24,744,1,Land,0
+Emeka Okeke,Male,63,Niger,Salary Earner,198735,3460956,Asset Acquisition,18,521,0,None,0
+Halima Bello,Male,29,Anambra,Civil Servant,152019,1980873,Medical,36,682,0,Land,0
+Aisha Okafor,Male,42,Kwara,Civil Servant,401852,3665590,Business Capital,6,306,0,Guarantor,0
+Obinna Okafor,Male,22,Delta,Self-Employed,222453,2410901,Agricultural Input,24,571,0,Fixed Deposit,0
+Kabir Musa,Male,29,Edo,Self-Employed,209001,3239858,Medical,6,315,0,Land,0
+Amaka Umar,Male,50,Ogun,Trader,301487,3002053,Asset Acquisition,60,723,1,Guarantor,0
+Taiwo Adebayo,Female,53,Cross River,Self-Employed,368317,3341987,Home Improvement,48,823,0,Vehicle,0
+Halima Onwudiwe,Male,59,Kwara,Civil Servant,130260,4663311,Medical,36,320,1,None,1
+Amaka Eze,Male,26,Kaduna,Self-Employed,200863,4467338,Medical,48,527,0,Vehicle,0
+Obinna Okeke,Female,43,Rivers,Farmer,190206,4153099,Asset Acquisition,36,587,0,Guarantor,0
+Yusuf Babatunde,Male,55,Enugu,Self-Employed,208173,840671,Home Improvement,6,433,0,Guarantor,0
+Tunde Nnamdi,Female,22,Ekiti,Civil Servant,99443,4557863,Home Improvement,6,582,1,Land,1
+Taiwo Musa,Male,47,Delta,Self-Employed,260183,4313272,Vehicle Purchase,6,703,0,Land,0
+Chiamaka Bello,Male,64,Lagos,Contractor,349674,4738195,Agricultural Input,36,365,1,Vehicle,1
+Chukwu Chukwuemeka,Male,31,Cross River,Self-Employed,470015,634718,Home Improvement,12,736,1,Vehicle,0
+Musa Garba,Male,51,Kwara,Farmer,165899,2244358,School Fees,6,558,1,Fixed Deposit,1
+Chukwu Okonkwo,Male,39,Plateau,Self-Employed,126143,1858566,School Fees,48,402,0,Fixed Deposit,1
+Adaeze Umar,Male,38,Kano,Salary Earner,223725,2554973,Agricultural Input,60,400,0,Guarantor,0
+Ibrahim Yusuf,Male,47,Delta,Farmer,174771,4102579,Business Capital,24,497,1,Guarantor,1
+Ifeanyi Onwudiwe,Male,29,Kwara,Self-Employed,406671,819565,Asset Acquisition,36,525,0,Guarantor,0
+Chiamaka Musa,Male,61,Delta,Trader,278044,3746944,Business Capital,48,762,0,Fixed Deposit,0
+Obinna Okeke,Male,33,Rivers,Trader,166385,3934175,School Fees,18,536,0,Vehicle,0
+Amaka Suleiman,Male,48,Rivers,Trader,174670,2167191,Home Improvement,60,325,0,Vehicle,0
+Musa Okeke,Male,29,Enugu,Salary Earner,141362,1659425,Agricultural Input,18,420,0,Vehicle,0
+Chidi Okeke,Female,46,Abuja,Farmer,276517,2353707,Business Capital,24,805,0,Guarantor,0
+Seun Lawal,Male,25,Delta,Self-Employed,320951,1589663,Business Capital,12,481,0,Vehicle,1
+Hauwa Obi,Female,54,Kwara,Trader,493639,1048899,Asset Acquisition,6,842,0,Vehicle,0
+Chiamaka Abubakar,Female,22,Delta,Civil Servant,230462,2148729,Medical,36,614,0,Land,0
+Dayo Eze,Male,40,Ondo,Trader,206298,4352096,School Fees,48,572,0,Fixed Deposit,0
+Ifeanyi Babatunde,Female,52,Ekiti,Civil Servant,89550,1870844,Home Improvement,6,531,0,Land,0
+Aisha Chukwuemeka,Female,37,Ondo,Civil Servant,295702,1001302,Agricultural Input,48,719,0,Land,0
+Chioma Obi,Male,35,Benue,Salary Earner,498524,4255089,Business Capital,36,741,0,Vehicle,0
+Rukayat Onwudiwe,Male,26,Kano,Farmer,342257,1170803,Asset Acquisition,18,795,0,Land,0
+Dayo Babatunde,Female,62,Plateau,Self-Employed,345143,955112,Medical,6,323,0,Guarantor,0
+Seun Musa,Female,47,Kwara,Civil Servant,216950,3785447,School Fees,24,408,0,Vehicle,0
+Amaka Adeyemi,Male,49,Osun,Farmer,459559,3914860,School Fees,12,801,0,Vehicle,0
+Yusuf Garba,Male,23,Oyo,Civil Servant,88219,200653,Asset Acquisition,24,324,1,Guarantor,0
+Ifeanyi Obi,Male,27,Ondo,Salary Earner,196258,4507910,Agricultural Input,12,486,0,Land,1
+Chiamaka Okafor,Male,30,Cross River,Civil Servant,460182,2538144,Business Capital,60,587,0,Land,0
+Chiamaka Lawal,Female,54,Oyo,Self-Employed,194841,3533978,Agricultural Input,48,637,0,None,1
+Fatima Garba,Male,62,Kano,Civil Servant,281004,3506537,Asset Acquisition,6,336,0,Vehicle,0
+Hauwa Lawal,Male,46,Benue,Salary Earner,287336,3538882,Asset Acquisition,6,436,0,Vehicle,0
+Emeka Musa,Female,34,Lagos,Salary Earner,266495,436213,Agricultural Input,60,807,0,Land,0
+Halima Musa,Male,30,Delta,Self-Employed,83218,2546589,Vehicle Purchase,12,526,0,Guarantor,0
+Bola Onwudiwe,Male,34,Delta,Farmer,311373,466690,Medical,18,619,0,Guarantor,0
+Funmi Adebayo,Female,52,Rivers,Salary Earner,367353,1213951,School Fees,36,481,0,Guarantor,1
+Musa Nnamdi,Female,62,Kano,Self-Employed,57877,3046244,Vehicle Purchase,24,385,1,Fixed Deposit,1
+Dayo Babatunde,Male,32,Ekiti,Contractor,219073,4396421,Home Improvement,60,766,0,Land,0
+Kabir Bello,Male,25,Abuja,Salary Earner,389281,927751,School Fees,48,352,0,Vehicle,1
+Chiamaka Obi,Male,55,Lagos,Civil Servant,330228,972426,School Fees,60,534,0,Fixed Deposit,1
+Chiamaka Okeke,Male,59,Enugu,Farmer,373924,728066,Medical,24,732,0,None,0
+Seun Obi,Male,25,Niger,Contractor,177878,1927779,Home Improvement,24,795,1,Land,1
+Kabir Onwudiwe,Male,59,Ogun,Farmer,249707,1675199,Business Capital,48,399,0,Guarantor,0
+Chiamaka Okeke,Male,40,Enugu,Farmer,271249,1851951,Home Improvement,48,702,0,Land,0
+Chioma Nnamdi,Male,27,Benue,Trader,67034,102949,Business Capital,6,695,1,Land,1
+Bola Eze,Male,55,Benue,Self-Employed,201389,4708234,Home Improvement,24,826,0,Vehicle,0
+Kabir Umar,Male,39,Kwara,Trader,347612,2242710,Agricultural Input,36,714,0,Land,1
+Aisha Bello,Male,34,Ogun,Salary Earner,442310,3604184,Asset Acquisition,36,762,1,Fixed Deposit,0
+Halima Okafor,Male,62,Ogun,Contractor,218868,1059260,Home Improvement,12,840,0,Guarantor,0
+Chidi Okafor,Male,44,Delta,Self-Employed,40589,839148,Vehicle Purchase,60,663,0,Land,0
+Obinna Nwosu,Female,40,Edo,Civil Servant,87221,1565509,Vehicle Purchase,48,429,0,Land,0
+Dayo Umar,Female,32,Cross River,Self-Employed,285927,1603091,Medical,6,383,0,Fixed Deposit,0
+Tobi Okonkwo,Female,22,Enugu,Farmer,293801,3871301,Asset Acquisition,36,570,0,Land,0
+Chioma Obi,Female,45,Edo,Salary Earner,390444,2219068,Asset Acquisition,18,543,1,Guarantor,0
+Funmi Adeyemi,Male,28,Kaduna,Trader,147229,3917239,Business Capital,6,687,0,Vehicle,0
+Adaeze Suleiman,Male,46,Cross River,Trader,331675,1358166,School Fees,6,513,0,Guarantor,0
+Blessing Chukwuemeka,Male,42,Edo,Salary Earner,82227,2919530,Medical,36,465,1,Vehicle,1
+Yusuf Eze,Female,36,Rivers,Trader,295308,2145104,Vehicle Purchase,18,358,0,Land,0
+Taiwo Chukwuemeka,Female,22,Anambra,Farmer,123078,3770922,Vehicle Purchase,12,803,0,Land,0
+Ifeanyi Nwosu,Male,33,Rivers,Civil Servant,333391,3982623,Business Capital,36,422,0,Land,1
+Ngozi Nwosu,Male,28,Benue,Self-Employed,265113,1173270,Vehicle Purchase,18,712,1,Vehicle,1
+Bola Nnamdi,Male,36,Niger,Self-Employed,442817,2561019,Vehicle Purchase,6,438,1,Guarantor,1
+Chiamaka Babatunde,Male,42,Kano,Salary Earner,80599,1380728,Business Capital,18,528,0,Vehicle,0
+Sade Eze,Female,40,Benue,Self-Employed,494761,1079242,Vehicle Purchase,6,573,0,Land,1
+Amaka Yusuf,Female,50,Abuja,Trader,276367,2217626,School Fees,60,738,0,Guarantor,0
+Yusuf Eze,Male,46,Abuja,Salary Earner,427768,3758201,Agricultural Input,36,417,1,Guarantor,1
+Obinna Adebayo,Female,54,Delta,Trader,432633,400068,Medical,48,782,0,None,0
+Obinna Adebayo,Female,53,Lagos,Self-Employed,219651,3474638,School Fees,36,694,0,Guarantor,0
+Nneka Okonkwo,Male,56,Enugu,Civil Servant,98207,2788384,School Fees,60,759,1,Guarantor,1
+Tobi Lawal,Male,59,Kaduna,Farmer,364199,454911,Agricultural Input,24,377,0,Guarantor,1
+Tobi Umar,Male,47,Kaduna,Trader,394410,2558164,Asset Acquisition,24,711,0,None,1
+Nneka Okeke,Male,32,Osun,Self-Employed,370414,3369343,Medical,24,374,0,Fixed Deposit,0
+Ngozi Bello,Male,56,Ekiti,Civil Servant,141426,3693394,School Fees,36,594,0,Vehicle,1
+Obinna Suleiman,Male,29,Benue,Self-Employed,164794,1787075,Vehicle Purchase,12,320,0,Land,1
+Ifeanyi Umar,Male,35,Kaduna,Salary Earner,362586,1219070,Agricultural Input,36,470,1,Vehicle,1
+Kabir Chukwuemeka,Male,31,Enugu,Self-Employed,387776,4187075,Asset Acquisition,60,314,0,Guarantor,0
+Dayo Adebayo,Female,23,Edo,Civil Servant,201103,221277,Medical,60,510,0,Fixed Deposit,0
+Obinna Umar,Male,30,Borno,Self-Employed,240307,4736270,Home Improvement,48,385,0,Guarantor,0
+Tunde Babatunde,Male,24,Lagos,Farmer,51438,2443455,Business Capital,18,448,0,Land,1
+Chiamaka Onwudiwe,Male,42,Niger,Self-Employed,88819,1411212,Vehicle Purchase,36,671,0,Fixed Deposit,0
+Fatima Eze,Female,47,Ekiti,Civil Servant,73856,1653344,Agricultural Input,36,779,0,Fixed Deposit,0
+Seun Yusuf,Male,29,Kano,Self-Employed,456792,3323751,Business Capital,6,450,1,Vehicle,0
+Blessing Yusuf,Male,23,Enugu,Farmer,334082,2519491,Asset Acquisition,60,440,0,Guarantor,0
+Adaeze Umar,Female,27,Kwara,Trader,472244,2972321,Asset Acquisition,6,368,0,Vehicle,0
+Emeka Babatunde,Female,49,Kano,Civil Servant,89807,1431710,Home Improvement,6,559,0,None,0
+Chukwu Okonkwo,Female,50,Ondo,Farmer,342021,2641822,School Fees,36,820,1,Fixed Deposit,0
+Ifeanyi Adeyemi,Male,47,Niger,Self-Employed,73461,2107797,School Fees,12,670,0,Guarantor,0
+Hauwa Nnamdi,Male,46,Cross River,Civil Servant,123474,851818,Medical,18,718,1,Guarantor,0
+Rukayat Onwudiwe,Female,33,Ekiti,Self-Employed,463685,2268787,Agricultural Input,18,400,0,None,0
+Ibrahim Umar,Female,26,Niger,Self-Employed,375280,2845766,Agricultural Input,60,542,1,Guarantor,0
+Chidi Eze,Female,55,Kaduna,Farmer,312579,4465239,Asset Acquisition,48,811,0,Vehicle,0
+Sade Suleiman,Female,58,Ekiti,Trader,245189,3249362,Medical,60,394,1,Fixed Deposit,1
+Aisha Abubakar,Male,36,Kwara,Salary Earner,437407,3151373,Business Capital,12,525,0,Land,0
+Sade Adebayo,Female,57,Ekiti,Civil Servant,376870,2850174,School Fees,12,817,0,Vehicle,0
+Nneka Musa,Male,36,Enugu,Civil Servant,284730,923420,School Fees,18,513,0,None,0
+Kabir Okafor,Male,64,Plateau,Salary Earner,276732,542503,Asset Acquisition,24,366,1,Fixed Deposit,0
+Tobi Adeyemi,Male,44,Cross River,Salary Earner,450602,4462903,Agricultural Input,6,695,0,Vehicle,0
+Adaeze Lawal,Male,27,Lagos,Self-Employed,192793,2385071,Asset Acquisition,6,311,1,Land,1
+Chioma Yusuf,Male,64,Anambra,Salary Earner,84786,2615820,Agricultural Input,18,536,1,Vehicle,1
+Blessing Musa,Male,42,Ekiti,Salary Earner,305848,2550511,Medical,60,698,0,Vehicle,0
+Bola Umar,Female,44,Borno,Self-Employed,86635,4128813,Home Improvement,12,706,1,Land,1
+Musa Chukwuemeka,Male,64,Plateau,Self-Employed,425339,3546716,Business Capital,60,779,0,Fixed Deposit,0
+Ngozi Abubakar,Female,37,Delta,Farmer,382854,994461,Vehicle Purchase,48,521,0,Vehicle,0
+Yusuf Okeke,Male,36,Delta,Civil Servant,270909,1517256,Home Improvement,24,455,0,Guarantor,1
+Tobi Suleiman,Male,46,Oyo,Contractor,275984,4399025,Home Improvement,18,727,0,Vehicle,0
+Taiwo Garba,Male,57,Ekiti,Self-Employed,355137,4380972,Agricultural Input,6,457,0,None,1
+Hauwa Adebayo,Male,32,Delta,Farmer,142752,328518,Agricultural Input,36,715,0,Vehicle,0
+Ibrahim Nwosu,Male,36,Ekiti,Trader,241194,3461647,Agricultural Input,60,625,0,Land,0
+Chukwu Onwudiwe,Male,25,Edo,Farmer,258584,2755421,Home Improvement,12,670,0,Land,0
+Funmi Umar,Male,42,Anambra,Self-Employed,448632,1414359,Asset Acquisition,36,643,0,Guarantor,0
+Rukayat Obi,Female,34,Delta,Farmer,162886,1212586,Business Capital,48,561,0,Guarantor,0
+Funmi Okafor,Male,43,Anambra,Salary Earner,108537,4767776,Asset Acquisition,18,582,1,Vehicle,1
+Obinna Bello,Female,40,Niger,Self-Employed,342402,456884,Agricultural Input,60,528,0,Vehicle,1
+Yusuf Eze,Male,55,Plateau,Civil Servant,177580,4503325,School Fees,6,579,0,Land,1
+Chiamaka Babatunde,Female,35,Kwara,Civil Servant,115166,197032,Asset Acquisition,60,589,0,Guarantor,0
+Chiamaka Okeke,Female,25,Edo,Salary Earner,239988,3338157,Business Capital,24,346,0,Guarantor,1
+Blessing Bello,Female,48,Plateau,Contractor,405854,4702124,School Fees,36,513,1,Land,0
+Funmi Babatunde,Male,50,Niger,Farmer,327843,1412516,Business Capital,24,323,0,Land,0
+Emeka Adebayo,Male,49,Kwara,Civil Servant,338479,2425100,Agricultural Input,48,620,0,Land,0
+Zainab Okafor,Male,56,Niger,Contractor,338950,1768562,Asset Acquisition,6,573,0,Land,1
+Obinna Suleiman,Female,29,Lagos,Self-Employed,369997,2306356,Vehicle Purchase,36,612,0,Guarantor,0
+Nneka Adebayo,Female,37,Enugu,Contractor,224840,1379785,Medical,48,662,1,Land,0
+Ifeanyi Babatunde,Female,63,Benue,Civil Servant,327883,4349376,Agricultural Input,24,679,1,Vehicle,0
+Ibrahim Suleiman,Male,57,Edo,Salary Earner,64785,2811642,Home Improvement,24,769,0,Land,1
+Fatima Eze,Female,51,Benue,Farmer,193052,4333664,Vehicle Purchase,36,415,0,None,1
+Amaka Okonkwo,Female,39,Enugu,Farmer,261791,3433737,Home Improvement,6,341,0,None,1
+Sade Okeke,Male,23,Enugu,Farmer,377160,4951366,Business Capital,24,678,0,Land,0
+Musa Nnamdi,Male,34,Niger,Contractor,424825,742353,Home Improvement,18,505,1,Vehicle,0
+Aisha Bello,Female,25,Benue,Farmer,96253,4931539,Vehicle Purchase,48,765,1,Land,1
+Kabir Lawal,Female,47,Ondo,Civil Servant,121128,2808566,Vehicle Purchase,36,579,0,Guarantor,0
+Hauwa Umar,Female,46,Lagos,Trader,451357,2378033,Agricultural Input,12,417,1,Land,0
+Kabir Chukwuemeka,Male,51,Niger,Farmer,191081,1205933,School Fees,12,536,0,Guarantor,0
+Fatima Musa,Female,32,Anambra,Self-Employed,419725,1540309,Agricultural Input,6,608,0,Guarantor,1
+Chioma Adeyemi,Male,28,Oyo,Trader,140966,4451744,Business Capital,18,755,0,None,1
+Adaeze Onwudiwe,Male,52,Enugu,Salary Earner,167854,3355107,Home Improvement,24,774,0,Land,1
+Fatima Okafor,Male,31,Kwara,Farmer,129352,244152,School Fees,12,399,0,Fixed Deposit,0
+Aisha Okeke,Female,60,Niger,Trader,449149,1978356,Asset Acquisition,6,560,0,Fixed Deposit,0
+Yusuf Babatunde,Female,34,Ogun,Farmer,369298,4847927,Medical,48,604,0,Land,0
+Obinna Suleiman,Male,52,Ekiti,Farmer,169379,862744,Vehicle Purchase,18,653,0,Vehicle,1
+Nneka Okeke,Male,28,Ogun,Farmer,253279,3169812,School Fees,18,585,1,Land,1
+Halima Yusuf,Female,63,Cross River,Civil Servant,267281,3262713,Asset Acquisition,60,627,0,Vehicle,0
+Rukayat Musa,Male,63,Osun,Trader,138297,3850760,School Fees,6,402,0,Vehicle,1
+Tobi Chukwuemeka,Female,57,Osun,Salary Earner,236946,1025112,Agricultural Input,6,362,1,Guarantor,1
+Kabir Okafor,Male,41,Abuja,Salary Earner,68346,4727482,Asset Acquisition,60,581,1,Vehicle,1
+Ibrahim Onwudiwe,Male,25,Rivers,Self-Employed,142138,4083123,Medical,24,740,1,None,0
+Sade Chukwuemeka,Male,28,Lagos,Civil Servant,342916,605839,Vehicle Purchase,6,592,0,Land,0
+Chukwu Adeyemi,Male,22,Rivers,Civil Servant,495300,664101,Business Capital,60,306,0,None,1
+Dayo Suleiman,Female,63,Osun,Trader,70149,499813,Business Capital,24,391,0,Land,1
+Tunde Lawal,Male,34,Oyo,Self-Employed,378844,3896300,School Fees,24,489,0,Fixed Deposit,0
+Obinna Eze,Male,43,Edo,Civil Servant,188598,1928266,Asset Acquisition,36,775,1,Vehicle,1
+Chiamaka Suleiman,Female,42,Ogun,Salary Earner,388902,601238,School Fees,18,810,0,Land,0
+Fatima Suleiman,Male,43,Enugu,Self-Employed,158447,4661008,Home Improvement,48,761,0,None,0
+Zainab Suleiman,Male,49,Cross River,Civil Servant,491693,3693488,Medical,18,352,0,Vehicle,1
+Chioma Babatunde,Female,30,Ekiti,Salary Earner,35695,2131280,Vehicle Purchase,18,785,0,Guarantor,1
+Chukwu Abubakar,Female,47,Lagos,Self-Employed,69169,50215,School Fees,36,789,1,Guarantor,1
+Fatima Lawal,Male,30,Benue,Salary Earner,340091,4612051,Home Improvement,24,663,0,Guarantor,0
+Bola Abubakar,Female,36,Edo,Salary Earner,208296,2945107,Asset Acquisition,24,411,0,Guarantor,0
+Kabir Nnamdi,Female,31,Ogun,Civil Servant,338009,3219562,Medical,6,708,0,Fixed Deposit,0
+Emeka Adeyemi,Male,45,Delta,Salary Earner,186625,1067375,Vehicle Purchase,36,306,0,Land,0
+Funmi Obi,Male,63,Anambra,Farmer,396645,322544,Business Capital,6,496,0,Guarantor,0
+Aisha Musa,Female,29,Abuja,Trader,352554,584633,Home Improvement,36,666,0,None,0
+Funmi Yusuf,Female,45,Delta,Civil Servant,395898,1913907,Asset Acquisition,6,549,0,Land,0
+Tunde Bello,Male,37,Borno,Contractor,383039,864661,Medical,12,539,0,Land,0
+Ibrahim Okeke,Female,47,Abuja,Civil Servant,448032,2657421,Home Improvement,60,679,1,Fixed Deposit,0
+Tunde Yusuf,Female,48,Edo,Civil Servant,216098,1366303,School Fees,18,770,1,Vehicle,0
+Tunde Eze,Male,58,Plateau,Contractor,342849,972401,Agricultural Input,18,754,1,Vehicle,1
+Musa Musa,Male,25,Niger,Salary Earner,222994,4757926,Business Capital,48,665,0,Land,1
+Funmi Nnamdi,Male,45,Borno,Contractor,407844,1170113,School Fees,60,589,0,Guarantor,0
+Emeka Adebayo,Female,40,Kwara,Salary Earner,366058,1863353,School Fees,24,702,0,Land,0
+Chiamaka Musa,Male,57,Osun,Self-Employed,31881,4642087,Asset Acquisition,48,357,1,Guarantor,1
+Yusuf Okeke,Female,60,Edo,Salary Earner,462783,4714759,Asset Acquisition,12,820,1,Fixed Deposit,1
+Chukwu Nwosu,Female,31,Delta,Farmer,339509,4476421,Medical,48,603,1,Vehicle,0
+Fatima Okonkwo,Female,46,Anambra,Civil Servant,109211,3529664,Asset Acquisition,18,414,0,Guarantor,1
+Yusuf Okonkwo,Male,39,Kano,Farmer,493338,3589172,Home Improvement,24,509,1,None,1
+Blessing Eze,Female,40,Cross River,Self-Employed,186078,4203514,Business Capital,12,340,0,Guarantor,0
+Ifeanyi Obi,Male,57,Kaduna,Self-Employed,333342,2708492,School Fees,18,472,0,Fixed Deposit,1
+Emeka Nwosu,Female,31,Abuja,Salary Earner,446047,4695289,Medical,60,533,0,Vehicle,0
+Chukwu Adeyemi,Male,54,Kaduna,Self-Employed,392793,2193184,Business Capital,6,702,0,Fixed Deposit,0
+Yusuf Chukwuemeka,Male,26,Kano,Contractor,439675,554910,Asset Acquisition,36,338,0,Land,1
+Taiwo Okafor,Female,56,Ondo,Self-Employed,455659,3491558,Asset Acquisition,12,418,0,Land,0
+Rukayat Bello,Male,55,Enugu,Trader,465532,673090,Home Improvement,24,634,0,Land,0
+Amaka Lawal,Male,54,Abuja,Trader,257203,2079341,Asset Acquisition,48,635,0,Vehicle,0
+Chidi Suleiman,Female,42,Ekiti,Self-Employed,225558,3067465,School Fees,60,838,1,Fixed Deposit,0
+Taiwo Yusuf,Female,38,Delta,Civil Servant,166949,2576915,Vehicle Purchase,48,373,0,Vehicle,1
+Fatima Lawal,Female,43,Benue,Salary Earner,69553,2452114,School Fees,12,490,0,Guarantor,0
+Taiwo Eze,Female,58,Kano,Salary Earner,428138,3529799,School Fees,60,623,1,Fixed Deposit,1
+Sade Adeyemi,Male,36,Plateau,Salary Earner,414922,1819617,Asset Acquisition,24,446,1,Guarantor,1
+Rukayat Garba,Male,56,Lagos,Civil Servant,409162,2488761,Business Capital,12,583,0,Vehicle,0
+Adaeze Lawal,Male,49,Niger,Self-Employed,165758,2898039,Asset Acquisition,24,512,0,Guarantor,0
+Kabir Okonkwo,Male,28,Ogun,Civil Servant,62766,687509,Business Capital,48,693,0,Vehicle,0
+Chioma Onwudiwe,Female,53,Oyo,Civil Servant,324150,2446629,Business Capital,18,638,0,Land,0
+Chiamaka Babatunde,Female,32,Ekiti,Self-Employed,61422,930432,Business Capital,60,321,0,None,0
+Halima Okafor,Male,31,Kaduna,Farmer,408734,516995,Medical,6,404,1,Land,1
+Amaka Lawal,Male,30,Plateau,Farmer,304349,4872778,Agricultural Input,18,765,0,Land,0
+Bola Bello,Female,35,Osun,Salary Earner,184599,4934299,Asset Acquisition,6,758,1,None,1
+Musa Nnamdi,Male,34,Rivers,Salary Earner,272555,3989625,Medical,48,731,1,Vehicle,1
+Yusuf Bello,Female,46,Kano,Farmer,441659,1679618,School Fees,60,520,1,Guarantor,1
+Yusuf Adebayo,Male,23,Niger,Self-Employed,439740,3424775,Medical,18,678,0,Vehicle,0
+Sade Yusuf,Female,56,Delta,Farmer,408621,2240002,Home Improvement,18,521,1,Vehicle,0
+Zainab Obi,Male,28,Kaduna,Self-Employed,58202,3043349,Vehicle Purchase,12,557,0,Vehicle,1
+Seun Nnamdi,Female,42,Benue,Self-Employed,488768,1292522,Business Capital,36,666,0,Vehicle,0
+Taiwo Umar,Female,39,Abuja,Salary Earner,469358,2618101,Asset Acquisition,48,648,0,Vehicle,1
+Obinna Garba,Female,24,Kano,Self-Employed,353836,1016325,Home Improvement,24,524,0,Fixed Deposit,0
+Sade Chukwuemeka,Female,63,Kano,Civil Servant,243456,4047936,Asset Acquisition,48,535,0,Guarantor,1
+Fatima Okafor,Female,60,Benue,Self-Employed,50855,1347776,Vehicle Purchase,24,482,0,None,1
+Chiamaka Okeke,Female,62,Ogun,Farmer,221444,4969831,Home Improvement,60,743,0,Land,0
+Rukayat Abubakar,Male,32,Delta,Trader,317239,2091215,Asset Acquisition,24,305,0,Guarantor,1
+Halima Lawal,Female,60,Enugu,Civil Servant,461940,1857317,School Fees,6,535,0,Guarantor,0
+Tobi Eze,Female,45,Plateau,Farmer,341385,3752590,Business Capital,24,426,0,None,0
+Halima Obi,Male,40,Ondo,Self-Employed,133119,3822088,Home Improvement,24,403,1,Land,1
+Ibrahim Lawal,Female,25,Rivers,Self-Employed,82003,1533702,School Fees,12,779,0,Guarantor,1
+Seun Chukwuemeka,Female,47,Lagos,Farmer,491595,4978476,Business Capital,18,454,0,None,0
+Rukayat Okafor,Female,59,Anambra,Self-Employed,124837,3936613,Agricultural Input,48,556,0,Land,0
+Musa Chukwuemeka,Male,63,Abuja,Civil Servant,253068,4060442,School Fees,48,534,0,None,1
+Musa Adebayo,Male,53,Oyo,Salary Earner,386427,4354083,Medical,60,799,0,Land,0
+Blessing Musa,Female,60,Anambra,Civil Servant,439188,3354860,Asset Acquisition,60,588,0,Fixed Deposit,0
+Nneka Onwudiwe,Female,57,Rivers,Trader,153805,4696386,Business Capital,24,809,1,None,0
+Bola Bello,Male,61,Oyo,Trader,385990,384248,Home Improvement,36,597,0,Guarantor,0
+Ibrahim Bello,Female,58,Lagos,Farmer,315071,711440,Vehicle Purchase,48,436,0,Vehicle,1
+Bola Chukwuemeka,Female,54,Lagos,Farmer,412733,1243502,Home Improvement,60,675,0,Land,0
+Fatima Suleiman,Male,57,Ogun,Civil Servant,145657,3379782,Medical,24,386,1,None,1
+Funmi Musa,Female,24,Cross River,Civil Servant,358774,804981,Asset Acquisition,60,718,0,Guarantor,1
+Zainab Adeyemi,Male,30,Edo,Salary Earner,134428,431325,Medical,6,498,0,Land,0
+Ifeanyi Okeke,Male,29,Borno,Self-Employed,152035,863526,Home Improvement,6,762,1,Guarantor,1
+Zainab Obi,Male,54,Osun,Civil Servant,475563,1013544,Asset Acquisition,60,736,0,Guarantor,1
+Nneka Okafor,Female,27,Kano,Contractor,260780,2476062,Vehicle Purchase,6,609,0,Land,0
+Halima Suleiman,Male,62,Plateau,Self-Employed,418388,4928274,Business Capital,60,580,0,Land,0
+Chiamaka Chukwuemeka,Male,60,Ogun,Civil Servant,247282,655751,Asset Acquisition,24,622,0,Land,0
+Chiamaka Adeyemi,Male,25,Plateau,Civil Servant,99518,1788614,School Fees,12,451,0,Guarantor,0
+Adaeze Nnamdi,Male,34,Ekiti,Civil Servant,206355,3482338,Asset Acquisition,36,601,0,Guarantor,0
+Adaeze Suleiman,Female,23,Ekiti,Farmer,373470,523656,Medical,24,577,0,Guarantor,1
+Fatima Yusuf,Male,26,Kaduna,Salary Earner,173277,1008379,Medical,12,307,0,Fixed Deposit,0
+Taiwo Abubakar,Male,48,Oyo,Civil Servant,150243,4861889,Medical,12,534,0,None,1
+Yusuf Onwudiwe,Female,53,Enugu,Trader,304892,2951884,Vehicle Purchase,48,601,1,Guarantor,1
+Aisha Okafor,Male,42,Abuja,Civil Servant,444313,4077187,Asset Acquisition,24,337,1,Land,1
+Blessing Okeke,Male,29,Ondo,Self-Employed,426308,56464,Asset Acquisition,24,435,0,Guarantor,0
+Blessing Okafor,Male,59,Cross River,Farmer,83311,1639426,Agricultural Input,60,720,0,Vehicle,0
+Chidi Adebayo,Male,29,Benue,Trader,52692,3775530,Vehicle Purchase,12,518,0,Guarantor,0
+Ifeanyi Eze,Male,24,Kaduna,Salary Earner,154954,1211140,Business Capital,12,647,0,Guarantor,1
+Funmi Chukwuemeka,Male,24,Lagos,Farmer,184934,1468767,Business Capital,12,845,0,Vehicle,0
+Chiamaka Okeke,Male,43,Rivers,Trader,422179,3663163,Business Capital,60,378,1,None,1
+Chidi Nnamdi,Female,27,Ekiti,Civil Servant,251468,2704074,Business Capital,48,572,0,Land,0
+Sade Okeke,Male,23,Niger,Contractor,371651,1885068,Business Capital,24,460,0,Guarantor,0
+Emeka Nnamdi,Female,44,Osun,Farmer,110152,1894277,Home Improvement,12,607,0,Land,0
+Hauwa Adebayo,Female,23,Oyo,Farmer,493685,315039,Medical,6,673,0,None,0
+Emeka Nwosu,Male,59,Kano,Farmer,34926,1441579,Vehicle Purchase,24,308,0,Land,1
+Chukwu Umar,Female,38,Plateau,Salary Earner,33969,2126259,Home Improvement,60,743,0,Land,0
+Hauwa Obi,Male,56,Niger,Salary Earner,65733,2251279,Vehicle Purchase,48,412,0,Vehicle,1
+Blessing Okonkwo,Female,55,Rivers,Civil Servant,361999,4340730,Agricultural Input,6,504,1,Vehicle,0
+Ngozi Musa,Male,44,Kwara,Self-Employed,71743,3096672,Asset Acquisition,60,704,0,Land,0
+Ifeanyi Babatunde,Male,51,Plateau,Self-Employed,160193,1110538,School Fees,18,496,1,Guarantor,1
+Bola Musa,Male,29,Borno,Trader,200948,1446102,Medical,24,414,1,Vehicle,1
+Rukayat Okonkwo,Female,43,Edo,Trader,399589,54011,Agricultural Input,18,420,0,Land,0
+Bola Garba,Male,57,Osun,Civil Servant,50323,2014724,Home Improvement,60,364,1,Vehicle,1
+Tunde Babatunde,Female,26,Kaduna,Trader,308572,4264086,School Fees,60,575,0,Fixed Deposit,0
+Halima Lawal,Male,34,Ogun,Farmer,64578,482941,Asset Acquisition,60,538,1,Guarantor,1
+Musa Nwosu,Female,50,Borno,Self-Employed,116486,3239187,Agricultural Input,12,601,0,Fixed Deposit,1
+Blessing Umar,Male,52,Oyo,Salary Earner,356284,2758685,Asset Acquisition,48,691,0,Guarantor,0
+Rukayat Obi,Female,37,Oyo,Civil Servant,287450,653151,Asset Acquisition,12,821,0,Vehicle,0
+Chidi Yusuf,Male,63,Borno,Farmer,137325,1873327,Vehicle Purchase,48,668,0,Land,0
+Sade Bello,Male,51,Oyo,Self-Employed,375973,3976449,School Fees,36,532,1,Vehicle,0
+Tobi Adeyemi,Male,37,Kano,Farmer,298508,1890277,Vehicle Purchase,12,494,0,Fixed Deposit,0
+Yusuf Nwosu,Male,33,Kaduna,Salary Earner,421011,4550328,Asset Acquisition,18,311,0,None,1
+Chidi Nnamdi,Female,38,Rivers,Farmer,458565,4358307,Agricultural Input,48,476,0,Guarantor,1
+Chioma Bello,Male,37,Osun,Trader,161763,4494910,Asset Acquisition,12,516,1,Land,0
+Chukwu Lawal,Female,33,Delta,Farmer,287971,781636,Home Improvement,24,310,0,Land,0
+Nneka Chukwuemeka,Male,29,Ekiti,Contractor,125598,4804489,Asset Acquisition,60,745,0,Vehicle,1
+Amaka Nnamdi,Male,41,Niger,Trader,227539,736290,Vehicle Purchase,48,463,0,Guarantor,1
+Obinna Chukwuemeka,Male,24,Ogun,Trader,206968,1811169,School Fees,48,352,0,Land,1
+Chukwu Abubakar,Male,37,Cross River,Contractor,87062,1830832,Agricultural Input,12,517,0,None,0
+Chidi Garba,Female,51,Ekiti,Trader,258338,3266662,Vehicle Purchase,36,659,0,Vehicle,0
+Fatima Suleiman,Male,44,Niger,Farmer,240834,2414825,Asset Acquisition,12,684,0,None,0
+Halima Okafor,Male,49,Ondo,Salary Earner,174933,3972380,Home Improvement,18,355,0,Fixed Deposit,1
+Adaeze Yusuf,Female,61,Rivers,Civil Servant,257909,2503894,Medical,18,417,0,Fixed Deposit,0
+Amaka Garba,Female,26,Oyo,Civil Servant,118302,2230139,Home Improvement,48,552,0,Guarantor,1
+Nneka Umar,Male,41,Oyo,Self-Employed,93928,3769194,Asset Acquisition,48,479,0,Guarantor,1
+Chioma Eze,Male,61,Delta,Self-Employed,244303,3333737,Home Improvement,12,714,1,Guarantor,1
+Seun Nnamdi,Female,22,Ekiti,Contractor,71347,1482672,Medical,18,534,1,Guarantor,1
+Chioma Okonkwo,Male,51,Niger,Trader,33121,614174,Home Improvement,18,379,0,Guarantor,0
+Tunde Umar,Male,42,Abuja,Trader,113793,1672563,Medical,36,321,0,None,0
+Tunde Musa,Male,41,Niger,Self-Employed,58164,2578474,Asset Acquisition,24,776,0,Fixed Deposit,0
+Chidi Adebayo,Female,27,Edo,Salary Earner,317635,2257928,Medical,36,739,0,Fixed Deposit,1
+Adaeze Obi,Female,43,Kano,Salary Earner,89222,3821460,Vehicle Purchase,6,392,0,None,1
+Fatima Okonkwo,Male,39,Borno,Self-Employed,184237,2515596,Vehicle Purchase,60,491,0,Land,1
+Amaka Chukwuemeka,Male,29,Abuja,Salary Earner,33748,4455113,Medical,36,402,0,Land,1
+Ngozi Musa,Male,60,Niger,Salary Earner,56553,1463967,Agricultural Input,12,695,1,Guarantor,0
+Seun Okeke,Female,53,Edo,Trader,146547,3437990,School Fees,24,306,0,Guarantor,1
+Dayo Eze,Male,54,Ekiti,Farmer,90380,4777589,Agricultural Input,12,530,0,Fixed Deposit,0
+Taiwo Okeke,Male,37,Kwara,Self-Employed,74331,3301830,Medical,60,539,0,Vehicle,0
+Ibrahim Suleiman,Female,33,Benue,Salary Earner,257105,3461097,School Fees,6,389,0,Guarantor,0
+Bola Babatunde,Male,59,Benue,Civil Servant,150617,1732978,Vehicle Purchase,24,531,0,Guarantor,0
+Chiamaka Adeyemi,Female,55,Plateau,Salary Earner,331704,3124126,School Fees,48,756,0,Land,1
+Halima Okonkwo,Male,35,Anambra,Contractor,346009,2669222,Medical,18,532,0,Guarantor,0
+Obinna Bello,Male,57,Rivers,Self-Employed,469902,1985772,Vehicle Purchase,36,653,0,Fixed Deposit,0
+Chiamaka Obi,Male,54,Edo,Self-Employed,105910,4618672,School Fees,12,632,1,Land,1
+Ifeanyi Chukwuemeka,Female,44,Lagos,Self-Employed,427891,2472952,School Fees,6,738,0,Guarantor,0
+Ifeanyi Babatunde,Female,23,Kano,Salary Earner,489922,3272018,Agricultural Input,18,674,0,Guarantor,0
+Dayo Chukwuemeka,Female,62,Niger,Civil Servant,370130,1911663,School Fees,36,591,0,Land,1
+Adaeze Okafor,Male,42,Ogun,Farmer,237288,1101690,Asset Acquisition,18,644,0,Land,1
+Seun Okonkwo,Female,23,Abuja,Farmer,40068,2960086,Medical,36,727,0,None,0
+Musa Nwosu,Male,48,Plateau,Salary Earner,84460,99768,Business Capital,48,429,1,Vehicle,0
+Funmi Nnamdi,Male,30,Rivers,Civil Servant,392910,3506000,Business Capital,24,440,1,Land,1
+Obinna Suleiman,Female,22,Edo,Civil Servant,76418,3828271,Business Capital,18,714,1,Land,1
+Bola Chukwuemeka,Male,32,Ekiti,Trader,318350,2313557,Medical,18,392,0,Guarantor,0
+Chiamaka Okafor,Male,24,Kano,Self-Employed,158180,2150326,Business Capital,18,583,1,Guarantor,1
+Aisha Chukwuemeka,Male,44,Osun,Self-Employed,292431,167769,Agricultural Input,24,522,0,Guarantor,0
+Ifeanyi Babatunde,Male,47,Enugu,Civil Servant,52337,347542,Medical,6,762,0,Land,0
+Taiwo Bello,Male,25,Edo,Civil Servant,181738,2576297,Asset Acquisition,36,844,0,None,0
+Seun Umar,Female,39,Oyo,Civil Servant,277667,3331121,Vehicle Purchase,48,575,1,Vehicle,0
+Rukayat Obi,Male,27,Anambra,Self-Employed,162233,978864,Asset Acquisition,18,439,0,Vehicle,1
+Aisha Obi,Female,56,Enugu,Civil Servant,392811,4112834,Medical,60,656,0,Guarantor,1
+Chidi Nwosu,Female,43,Oyo,Trader,382215,4643321,Medical,24,322,0,Vehicle,0
+Bola Garba,Male,64,Ekiti,Civil Servant,128064,981775,School Fees,6,569,0,None,0
+Kabir Okafor,Male,36,Oyo,Contractor,461967,2516511,School Fees,36,632,0,None,0
+Taiwo Garba,Male,43,Rivers,Civil Servant,398655,3345784,School Fees,24,384,1,Vehicle,1
+Tunde Suleiman,Female,58,Edo,Contractor,437974,3021679,Home Improvement,48,330,0,None,0
+Blessing Musa,Male,63,Abuja,Trader,488996,4184608,Agricultural Input,48,539,0,Fixed Deposit,0
+Aisha Okafor,Female,33,Plateau,Self-Employed,276686,1298749,Medical,36,662,0,None,0
+Yusuf Adebayo,Male,63,Niger,Trader,33178,2649098,Asset Acquisition,18,688,0,Land,0
+Tunde Nwosu,Female,59,Ogun,Salary Earner,61831,726337,Medical,48,598,0,Guarantor,0
+Sade Musa,Male,39,Benue,Contractor,163248,2073553,School Fees,6,670,0,Vehicle,0
+Chidi Bello,Male,56,Plateau,Civil Servant,133306,2146419,Medical,24,398,0,Fixed Deposit,1
+Ngozi Onwudiwe,Female,51,Anambra,Salary Earner,194726,3792918,Vehicle Purchase,6,346,0,Land,0
+Obinna Yusuf,Female,45,Oyo,Civil Servant,284292,4336476,Medical,18,721,0,Guarantor,0
+Chidi Yusuf,Male,63,Ekiti,Contractor,449843,4915294,Asset Acquisition,6,779,0,Vehicle,0
+Obinna Yusuf,Female,51,Cross River,Salary Earner,213622,594344,Business Capital,6,361,0,Vehicle,0
+Kabir Nnamdi,Male,35,Delta,Civil Servant,404169,1237030,Vehicle Purchase,12,408,0,Guarantor,1
+Musa Obi,Female,27,Kwara,Farmer,205982,1154315,Vehicle Purchase,6,848,1,None,0
+Yusuf Lawal,Female,24,Benue,Trader,120417,98639,Medical,36,418,0,Guarantor,1
+Bola Onwudiwe,Male,37,Kaduna,Self-Employed,219323,2600206,Home Improvement,24,681,0,None,0
+Obinna Umar,Male,28,Ekiti,Salary Earner,458638,646682,School Fees,12,691,0,Vehicle,0
+Funmi Adebayo,Male,35,Edo,Salary Earner,41984,4574105,Agricultural Input,24,351,0,Guarantor,1
+Ifeanyi Adeyemi,Male,30,Edo,Civil Servant,119312,2960744,Agricultural Input,24,588,1,Guarantor,1
+Blessing Garba,Female,36,Ondo,Civil Servant,222458,1930164,Business Capital,18,636,0,Land,0
+Bola Umar,Male,42,Benue,Contractor,113291,4426751,Agricultural Input,18,503,0,Guarantor,0
+Obinna Lawal,Male,56,Benue,Salary Earner,299279,2495738,Agricultural Input,12,537,0,Guarantor,0
+Chioma Adeyemi,Female,23,Cross River,Farmer,30320,4919236,School Fees,48,681,0,Guarantor,1
+Blessing Umar,Female,48,Kaduna,Salary Earner,182756,430069,School Fees,60,435,1,Fixed Deposit,1
+Bola Bello,Male,23,Rivers,Salary Earner,479129,4248440,Home Improvement,18,706,0,Guarantor,0
+Sade Nnamdi,Male,56,Kaduna,Civil Servant,380918,2209020,Asset Acquisition,60,807,0,Land,0
+Taiwo Babatunde,Male,39,Plateau,Civil Servant,445105,2491559,Business Capital,18,661,0,Land,0
+Obinna Yusuf,Male,35,Lagos,Farmer,256921,2965751,Agricultural Input,18,680,0,Guarantor,1
+Zainab Adeyemi,Female,41,Ogun,Trader,390215,160957,Home Improvement,24,553,1,Vehicle,0
+Obinna Yusuf,Male,39,Plateau,Civil Servant,209971,4784071,Business Capital,12,776,0,Land,0
+Kabir Abubakar,Female,31,Edo,Contractor,285083,4363696,Vehicle Purchase,24,413,0,Vehicle,0
+Musa Nnamdi,Male,46,Osun,Trader,433986,4904487,Agricultural Input,36,319,0,Guarantor,0
+Amaka Garba,Female,23,Ekiti,Civil Servant,462537,2927668,Agricultural Input,24,827,0,Vehicle,0
+Yusuf Adeyemi,Female,46,Edo,Trader,139863,856017,School Fees,60,444,0,Fixed Deposit,1
+Obinna Okafor,Female,54,Kwara,Civil Servant,71777,3430575,Medical,60,507,0,Guarantor,1
+Funmi Obi,Male,57,Osun,Salary Earner,76250,911501,Business Capital,36,830,0,Vehicle,0
+Dayo Bello,Male,52,Edo,Farmer,365178,4510168,Agricultural Input,6,675,0,Fixed Deposit,0
+Taiwo Nwosu,Male,35,Ogun,Salary Earner,397084,4525715,Business Capital,6,803,0,Guarantor,0
+Chioma Eze,Female,22,Ogun,Civil Servant,332274,1245344,Asset Acquisition,36,465,1,Guarantor,1
+Dayo Lawal,Female,37,Rivers,Farmer,210418,735328,Home Improvement,36,849,0,Guarantor,1
+Obinna Garba,Female,24,Anambra,Salary Earner,425753,466561,Home Improvement,24,480,0,Land,1
+Taiwo Nnamdi,Female,56,Niger,Salary Earner,245834,4295871,Medical,36,743,0,Guarantor,0
+Ngozi Suleiman,Female,62,Kano,Trader,45216,3126263,Agricultural Input,12,631,0,Vehicle,0
+Blessing Umar,Male,27,Ondo,Civil Servant,376293,1819361,Asset Acquisition,6,802,0,None,0
+Seun Chukwuemeka,Female,46,Delta,Salary Earner,33009,4851436,School Fees,6,378,1,Fixed Deposit,1
+Chidi Obi,Male,34,Enugu,Farmer,382048,3810713,Agricultural Input,48,695,0,Guarantor,1
+Nneka Nnamdi,Male,55,Cross River,Civil Servant,190399,674913,Business Capital,36,402,0,Vehicle,0
+Chioma Obi,Male,29,Niger,Civil Servant,175281,1571193,Vehicle Purchase,18,701,0,Land,0
+Bola Obi,Male,42,Ekiti,Contractor,209515,967999,Home Improvement,18,523,0,Vehicle,0
+Fatima Okeke,Male,55,Ekiti,Farmer,45029,2978339,Business Capital,36,817,0,Guarantor,1
+Nneka Babatunde,Female,25,Ekiti,Self-Employed,490829,2083764,Medical,12,535,0,Vehicle,0
+Adaeze Adebayo,Male,46,Lagos,Trader,240515,444768,Home Improvement,18,726,0,Guarantor,1
+Rukayat Nnamdi,Female,36,Enugu,Trader,218069,4295576,School Fees,48,415,0,Land,1
+Chiamaka Musa,Male,25,Edo,Salary Earner,394315,299264,Home Improvement,60,462,0,None,1
+Musa Bello,Male,33,Kaduna,Salary Earner,144456,4056622,Vehicle Purchase,36,525,0,Land,0
+Ifeanyi Musa,Male,53,Kano,Salary Earner,354703,3874977,Asset Acquisition,12,529,0,None,0
+Hauwa Suleiman,Male,53,Oyo,Farmer,357036,286538,Agricultural Input,12,481,0,None,1
+Adaeze Babatunde,Female,49,Niger,Civil Servant,362553,4759751,Vehicle Purchase,24,548,0,Guarantor,0
+Yusuf Nnamdi,Male,34,Ogun,Civil Servant,431851,3659134,Asset Acquisition,12,617,0,Fixed Deposit,0
+Dayo Bello,Female,52,Kwara,Contractor,325209,203706,Vehicle Purchase,18,509,0,Vehicle,0
+Adaeze Okeke,Male,35,Ondo,Farmer,272471,3390552,Agricultural Input,60,691,0,Guarantor,0
+Seun Obi,Female,41,Osun,Salary Earner,412688,4998122,Home Improvement,18,395,0,Vehicle,1
+Ibrahim Musa,Female,39,Plateau,Self-Employed,399484,877150,Medical,36,385,0,Vehicle,0
+Nneka Garba,Female,50,Kano,Self-Employed,63783,1836852,Agricultural Input,60,714,0,Guarantor,1
+Bola Chukwuemeka,Male,27,Borno,Self-Employed,64152,4586857,Agricultural Input,36,693,0,Guarantor,1
+Taiwo Suleiman,Male,53,Borno,Farmer,88741,92137,Asset Acquisition,12,800,0,Guarantor,0
+Emeka Suleiman,Male,50,Ondo,Trader,399193,1491945,School Fees,48,432,1,Vehicle,0
+Adaeze Nwosu,Female,64,Benue,Self-Employed,474718,188925,Home Improvement,6,613,0,Vehicle,0
+Tunde Obi,Male,23,Abuja,Civil Servant,59092,2683819,Agricultural Input,60,520,0,Land,1
+Chidi Onwudiwe,Male,44,Delta,Farmer,178725,3344900,Medical,24,737,0,Land,0
+Tunde Eze,Female,40,Kano,Self-Employed,260636,3846098,Business Capital,6,345,0,Vehicle,0
+Yusuf Musa,Male,52,Ogun,Salary Earner,201541,425233,Home Improvement,12,491,0,Land,0
+Bola Umar,Female,26,Kano,Civil Servant,284136,3589730,School Fees,12,819,0,Land,0
+Chiamaka Okafor,Male,40,Edo,Salary Earner,378627,2610272,Vehicle Purchase,6,678,0,Fixed Deposit,0
+Taiwo Okeke,Male,55,Osun,Contractor,413729,1784635,Agricultural Input,24,633,0,Land,0
+Ibrahim Garba,Female,31,Enugu,Salary Earner,351898,2007792,Medical,60,338,0,Guarantor,0
+Chioma Obi,Male,46,Ekiti,Self-Employed,191050,274062,Home Improvement,60,592,0,Vehicle,0
+Tobi Nnamdi,Female,23,Enugu,Civil Servant,117592,2205138,Medical,6,461,0,None,0
+Yusuf Nnamdi,Male,32,Anambra,Contractor,386687,481978,Medical,36,630,0,Guarantor,1
+Seun Musa,Male,52,Anambra,Salary Earner,73169,3552646,Asset Acquisition,18,403,0,Vehicle,1
+Ngozi Nwosu,Female,36,Kano,Salary Earner,471503,3941865,Vehicle Purchase,48,460,0,Guarantor,1
+Ibrahim Nnamdi,Female,30,Lagos,Salary Earner,84745,4200579,School Fees,36,353,0,Vehicle,1
+Funmi Nwosu,Female,44,Rivers,Salary Earner,140168,1203891,Home Improvement,60,333,0,Guarantor,1
+Rukayat Lawal,Male,40,Oyo,Salary Earner,143985,752214,Agricultural Input,18,541,0,Land,1
+Chioma Chukwuemeka,Female,30,Lagos,Civil Servant,297687,1810143,School Fees,48,412,0,None,1
+Blessing Eze,Male,56,Ogun,Salary Earner,217464,275687,Agricultural Input,48,617,1,Vehicle,1
+Obinna Nnamdi,Male,42,Oyo,Salary Earner,51067,2989701,Business Capital,48,322,1,Vehicle,1
+Adaeze Lawal,Female,30,Niger,Trader,81033,2292365,Medical,12,417,0,Fixed Deposit,0
+Aisha Okeke,Male,49,Enugu,Self-Employed,75256,2811856,Business Capital,48,511,0,Vehicle,1
+Aisha Umar,Female,28,Enugu,Self-Employed,251705,2121088,Asset Acquisition,24,717,0,Fixed Deposit,1
+Funmi Onwudiwe,Male,37,Oyo,Self-Employed,269455,2163048,Medical,6,412,0,Guarantor,1
